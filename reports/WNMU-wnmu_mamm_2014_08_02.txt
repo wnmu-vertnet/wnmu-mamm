@@ -1,0 +1,107 @@
+Report for Institution Code WNMU, Resource wnmu_mamm
+Usage stats for July, 2014, generated on 2014/08/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 4
+Number of records retrieved in searches: 32
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-07-31 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "stateprovince:"minnesota" specificepithet:pennanti genus:martes" ; Times: 1
+	Query: "(oquilapa)" ; Times: 1
+	Query: "stateprovince:"minnesota" specificepithet:vison genus:mustela" ; Times: 1
+	Query: "stateprovince:"indiana" specificepithet:vulpes genus:vulpes" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 33 (out of 437 download events in this period)
+Total number of records downloaded: 2576 (out of 2823564 records downloaded for all resources in this period)
+Total number of unique records downloaded: 2389
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Chile ; Times: 6
+	Country: Mexico ; Times: 8
+	Country: United States ; Times: 19
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-07-01 ; Times: 1
+	Date: 2014-07-03 ; Times: 2
+	Date: 2014-07-08 ; Times: 1
+	Date: 2014-07-09 ; Times: 1
+	Date: 2014-07-10 ; Times: 1
+	Date: 2014-07-12 ; Times: 7
+	Date: 2014-07-13 ; Times: 1
+	Date: 2014-07-14 ; Times: 1
+	Date: 2014-07-15 ; Times: 4
+	Date: 2014-07-16 ; Times: 1
+	Date: 2014-07-17 ; Times: 2
+	Date: 2014-07-18 ; Times: 1
+	Date: 2014-07-20 ; Times: 1
+	Date: 2014-07-21 ; Times: 2
+	Date: 2014-07-22 ; Times: 1
+	Date: 2014-07-25 ; Times: 3
+	Date: 2014-07-30 ; Times: 1
+	Date: 2014-07-31 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "country:"Bolivia"" ; Times: 1
+	Query: "microtus longicaudus" ; Times: 1
+	Query: "Rattus norvegicus" ; Times: 1
+	Query: "vespertilionidae" ; Times: 1
+	Query: "stateprovince:"Oklahoma"" ; Times: 1
+	Query: "Rattus rattus" ; Times: 1
+	Query: "Peromyscus eremicus" ; Times: 1
+	Query: "stateprovince:"minnesota" specificepithet:erminea genus:mustela" ; Times: 1
+	Query: "cynomys gunnisoni type:specimen year >= 1930 year <= 2014" ; Times: 1
+	Query: "Ochotona princeps" ; Times: 1
+	Query: "noctilionidae" ; Times: 1
+	Query: "Peromyscus leucopus stateprovince:"Texas"" ; Times: 1
+	Query: "Oryzomys palustris" ; Times: 1
+	Query: "country:"Guyana" year <= 2014" ; Times: 1
+	Query: "country:"Brazil"" ; Times: 1
+	Query: "Peromyscus leucopus AND (NOT reptilia)" ; Times: 1
+	Query: "Macropus" ; Times: 1
+	Query: "stateprovince:"Michigan" specificepithet:volans genus:Glaucomys" ; Times: 1
+	Query: "natalidae" ; Times: 1
+	Query: "specificepithet:pennanti genus:Martes" ; Times: 1
+	Query: "emballonuridae" ; Times: 1
+	Query: "stateprovince:"Michigan" specificepithet:nivalis genus:Mustela" ; Times: 1
+	Query: "American Badger" ; Times: 1
+	Query: "phyllostomidae" ; Times: 1
+	Query: "desmodus rotundus" ; Times: 1
+	Query: "Peromyscus boylii Peromyscus boylii type:specimen" ; Times: 1
+	Query: "stateprovince:"New Mexico" genus:myotis year >= 1950 year <= 2013 mappable:1" ; Times: 1
+	Query: "stateprovince:"New Mexico" genus:myotis year >= 1970 year <= 2014 mappable:1" ; Times: 1
+	Query: "Neotoma cinerea stateprovince:"California"" ; Times: 1
+	Query: "mormoopidae" ; Times: 1
+	Query: "molossidae" ; Times: 1
+	Query: "graphiurus" ; Times: 1
+	Query: "stateprovince:"indiana" specificepithet:vulpes genus:vulpes" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 37
+Total number of records retrieved from searches: 366
+Number of download events that retrieved data from the resource: 186
+Total number of records downloaded: 12000
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 37
+Total number of records retrieved from searches: 366
+Number of download events that retrieved data from the resource: 267
+Total number of records downloaded: 19872
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
