@@ -1,0 +1,126 @@
+Report for Institution Code WNMU, Resource wnmu_mamm
+Usage stats for August, 2014, generated on 2014/09/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 24
+Number of records retrieved in searches: 27
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Mexico ; Times: 1
+	Country: United States ; Times: 23
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-08-05 ; Times: 2
+	Date: 2014-08-08 ; Times: 1
+	Date: 2014-08-11 ; Times: 1
+	Date: 2014-08-17 ; Times: 1
+	Date: 2014-08-18 ; Times: 10
+	Date: 2014-08-26 ; Times: 1
+	Date: 2014-08-27 ; Times: 1
+	Date: 2014-08-29 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "coendou prehensilis" ; Times: 1
+	Query: "sylvilagus brasiliensis" ; Times: 4
+	Query: "gunnisoni stateprovince:"New Mexico"" ; Times: 1
+	Query: "coendou (mexico)" ; Times: 1
+	Query: "specificepithet:prehensilis genus:coendou" ; Times: 2
+	Query: "Coendou prehensilis" ; Times: 3
+	Query: "chaetodipus intermedius county:"lincoln"" ; Times: 1
+	Query: "WNMU Alouatta" ; Times: 2
+	Query: "Suncus etruscus" ; Times: 5
+	Query: "country:"bolivia" specificepithet:prehensilis genus:Coendou" ; Times: 1
+	Query: "sylvilagus brasiliensis type:specimen year >= 1961 year <= 2014" ; Times: 1
+	Query: "type:specimen stateprovince:"Virginia" class:Mammalia institutioncode:WNMU AND (NOT West Virginia)" ; Times: 1
+	Query: "sylvilagus brasiliensis type:specimen year >= 1941 year <= 2014" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 39 (out of 273 download events in this period)
+Total number of records downloaded: 1473 (out of 1909881 records downloaded for all resources in this period)
+Total number of unique records downloaded: 1446
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Belgium ; Times: 1
+	Country: Brazil ; Times: 3
+	Country: Germany ; Times: 3
+	Country: Israel ; Times: 1
+	Country: Mexico ; Times: 7
+	Country: United States ; Times: 24
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-08-05 ; Times: 1
+	Date: 2014-08-08 ; Times: 1
+	Date: 2014-08-13 ; Times: 2
+	Date: 2014-08-14 ; Times: 1
+	Date: 2014-08-16 ; Times: 3
+	Date: 2014-08-17 ; Times: 3
+	Date: 2014-08-18 ; Times: 4
+	Date: 2014-08-19 ; Times: 1
+	Date: 2014-08-21 ; Times: 1
+	Date: 2014-08-22 ; Times: 4
+	Date: 2014-08-25 ; Times: 1
+	Date: 2014-08-26 ; Times: 7
+	Date: 2014-08-27 ; Times: 4
+	Date: 2014-08-28 ; Times: 3
+	Date: 2014-08-29 ; Times: 1
+	Date: 2014-08-30 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "country:"brazil"" ; Times: 2
+	Query: "neotoma fuscipes" ; Times: 2
+	Query: "sylvilagus brasiliensis" ; Times: 1
+	Query: "Sciurus aberti" ; Times: 1
+	Query: "tamiasciurus hudsonicus" ; Times: 1
+	Query: "Ondatra zibethicus" ; Times: 1
+	Query: "Mephitis mephitis type:specimen" ; Times: 1
+	Query: "Peromyscus boylii" ; Times: 1
+	Query: "condylura cristata type:specimen" ; Times: 1
+	Query: "Mustela nivalis type:specimen" ; Times: 1
+	Query: "Baja California Sur mammals" ; Times: 1
+	Query: "castor canadensis" ; Times: 1
+	Query: "country:"Kenya" class:Mammalia" ; Times: 1
+	Query: "Desmodus rotundus" ; Times: 1
+	Query: "chaetodipus intermedius county:"lincoln"" ; Times: 1
+	Query: "spermophilus beecheyi" ; Times: 1
+	Query: "neotoma cinerea" ; Times: 1
+	Query: "cryptotis parva type:specimen" ; Times: 1
+	Query: "Mustela erminea" ; Times: 1
+	Query: "Lontra canadensis" ; Times: 2
+	Query: "type:specimen stateprovince:"Virginia" class:Mammalia" ; Times: 1
+	Query: "ochotona princeps" ; Times: 1
+	Query: "scalopus aquaticus type:specimen" ; Times: 1
+	Query: "Spilogale putorius type:specimen" ; Times: 2
+	Query: "Martes pennanti type:specimen AND (NOT Canada NOT Alaska NOT Michigan)" ; Times: 1
+	Query: "Coahuila mammals type:specimen" ; Times: 1
+	Query: "Peromyscus gossypinus type:specimen" ; Times: 1
+	Query: "eptesicus" ; Times: 1
+	Query: "Herpestidae type:specimen" ; Times: 1
+	Query: "Parascalops breweri type:specimen stateprovince:"New York"" ; Times: 2
+	Query: "alouatta seniculus" ; Times: 1
+	Query: "Alouatta" ; Times: 1
+	Query: "Dipodomys" ; Times: 1
+	Query: "myocastor coypus" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 61
+Total number of records retrieved from searches: 393
+Number of download events that retrieved data from the resource: 225
+Total number of records downloaded: 13473
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 61
+Total number of records retrieved from searches: 393
+Number of download events that retrieved data from the resource: 306
+Total number of records downloaded: 21345
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
