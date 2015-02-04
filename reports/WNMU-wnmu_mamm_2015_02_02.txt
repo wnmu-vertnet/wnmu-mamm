@@ -1,0 +1,143 @@
+Report for Institution Code WNMU, Resource wnmu_mamm
+Usage stats for January, 2015, generated on 2015/02/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 13
+Number of records retrieved in searches: 230
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: France ; Times: 1
+	Country: United States ; Times: 12
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-01-04 ; Times: 1
+	Date: 2015-01-05 ; Times: 1
+	Date: 2015-01-06 ; Times: 2
+	Date: 2015-01-07 ; Times: 8
+	Date: 2015-01-16 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "dipodomys type:specimen county:"cochise" class:mammalia year >= 1961 year <= 1961" ; Times: 2
+	Query: "dipodomys type:specimen county:"cochise" year >= 1961 year <= 1961" ; Times: 1
+	Query: ""wnmu/wnmu-mammal-collection-arctos"" ; Times: 1
+	Query: ""university of arizona" class:mammalia" ; Times: 1
+	Query: "county:"yuma" specificepithet:intermedius class:mammalia year >= 1967 year <= 1967" ; Times: 1
+	Query: "Sciurus type:specimen county:"pima" class:mammalia year >= 1959 year <= 1959" ; Times: 1
+	Query: "dipodomys type:specimen county:"nye" year >= 1964 year <= 1964" ; Times: 1
+	Query: "Euderma maculatum" ; Times: 1
+	Query: "stateprovince:"Minnesota" class:Mammalia institutioncode:WNMU" ; Times: 1
+	Query: "dipodomys tank type:specimen county:"yuma"" ; Times: 1
+	Query: "glaucomys type:specimen class:mammalia year >= 1932 year <= 1932" ; Times: 1
+	Query: "dipodomys type:specimen stateprovince:"sonora" class:mammalia year >= 1967 year <= 1967" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 61 (out of 445 download events in this period)
+Total number of records downloaded: 3722 (out of 2849158 records downloaded for all resources in this period)
+Total number of unique records downloaded: 3370
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Israel ; Times: 2
+	Country: Mexico ; Times: 23
+	Country: United States ; Times: 22
+	Country: Unknown ; Times: 12
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-01-03 ; Times: 10
+	Date: 2015-01-04 ; Times: 12
+	Date: 2015-01-05 ; Times: 1
+	Date: 2015-01-06 ; Times: 3
+	Date: 2015-01-07 ; Times: 1
+	Date: 2015-01-08 ; Times: 1
+	Date: 2015-01-09 ; Times: 6
+	Date: 2015-01-12 ; Times: 1
+	Date: 2015-01-14 ; Times: 1
+	Date: 2015-01-16 ; Times: 1
+	Date: 2015-01-18 ; Times: 2
+	Date: 2015-01-19 ; Times: 2
+	Date: 2015-01-21 ; Times: 1
+	Date: 2015-01-22 ; Times: 3
+	Date: 2015-01-23 ; Times: 1
+	Date: 2015-01-27 ; Times: 2
+	Date: 2015-01-28 ; Times: 3
+	Date: 2015-01-29 ; Times: 2
+	Date: 2015-01-30 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "cyclopes didactylus" ; Times: 1
+	Query: ""Microtus pennsylvanicus" stateprovince:"Maine"" ; Times: 1
+	Query: "Didelphis marsupialis" ; Times: 1
+	Query: "peromyscus (mexico)" ; Times: 1
+	Query: "Pilosa" ; Times: 1
+	Query: "urocyon cinereoargenteus" ; Times: 1
+	Query: "Pecari tajacu" ; Times: 1
+	Query: "Cebidae" ; Times: 1
+	Query: "Dasypus novemcinctus" ; Times: 2
+	Query: "Puma concolor" ; Times: 1
+	Query: "Diprotodontia mappable:1" ; Times: 1
+	Query: "mormoops megalophylla" ; Times: 1
+	Query: ""Microtus pennsylvanicus"" ; Times: 2
+	Query: ""ochotona princeps"" ; Times: 1
+	Query: ""Microtus pennsylvanicus" stateprovince:"New Hampshire"" ; Times: 2
+	Query: "stateprovince:"Minnesota" class:Mammalia" ; Times: 2
+	Query: "Procyon lotor" ; Times: 1
+	Query: "country:"Mexico" class:Mammalia year <= 2014" ; Times: 1
+	Query: "mus musculus" ; Times: 1
+	Query: "Coendou" ; Times: 1
+	Query: "canidae skull" ; Times: 1
+	Query: "Taxidea taxus" ; Times: 2
+	Query: "Mustela frenata" ; Times: 1
+	Query: "Spilogale putorius" ; Times: 1
+	Query: "Pitheciidae" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "Scalopus aquaticus" ; Times: 1
+	Query: "lepus californicus" ; Times: 1
+	Query: "Sylvilagus audubonii" ; Times: 1
+	Query: "Sylvilagus floridanus" ; Times: 1
+	Query: "Bassariscus astutus" ; Times: 1
+	Query: "Clethrionomys rutilus" ; Times: 1
+	Query: ""Microtus pennsylvanicus" stateprovince:"Pennsylvania"" ; Times: 1
+	Query: "Myodes rutilus" ; Times: 1
+	Query: "mustela frenata" ; Times: 1
+	Query: "lynx rufus" ; Times: 1
+	Query: "Nasua narica" ; Times: 1
+	Query: "Sciurus" ; Times: 1
+	Query: "myotis myotis" ; Times: 1
+	Query: "philander opossum" ; Times: 1
+	Query: "Sylvilagus brasiliensis" ; Times: 2
+	Query: "didelphis virginiana" ; Times: 1
+	Query: "Ctenomys" ; Times: 1
+	Query: "stateprovince:"Louisiana" country:"United States" genus:Cryptotis" ; Times: 1
+	Query: "canis latrans" ; Times: 1
+	Query: "Nasua nasua" ; Times: 1
+	Query: "American badger" ; Times: 1
+	Query: "Ctenomys boliviensis" ; Times: 2
+	Query: "Mephitis macroura" ; Times: 1
+	Query: "Carnivora america" ; Times: 1
+	Query: "didelphis marsupialis" ; Times: 2
+	Query: ""Microtus pennsylvanicus" stateprovince:"Massachusetts"" ; Times: 1
+	Query: "stateprovince:"Kentucky" class:mammalia" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 89
+Total number of records retrieved from searches: 600
+Number of download events that retrieved data from the resource: 61
+Total number of records downloaded: 3722
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 102
+Total number of records retrieved from searches: 830
+Number of download events that retrieved data from the resource: 468
+Total number of records downloaded: 34836
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
