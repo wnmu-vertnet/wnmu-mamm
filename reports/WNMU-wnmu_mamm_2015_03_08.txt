@@ -1,0 +1,82 @@
+Report for Institution Code WNMU, Resource wnmu_mamm
+Usage stats for February, 2015, generated on 2015/03/08
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 2
+Number of records retrieved in searches: 2
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-02-01 ; Times: 1
+	Date: 2015-02-11 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "stateprovince:"Colorado" specificepithet:americanus genus:Lepus" ; Times: 1
+	Query: "peromyscus ann arbor AND (NOT ummz)" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 18 (out of 326 download events in this period)
+Total number of records downloaded: 696 (out of 4108714 records downloaded for all resources in this period)
+Total number of unique records downloaded: 663
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Colombia ; Times: 1
+	Country: France ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: United States ; Times: 14
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-02-03 ; Times: 2
+	Date: 2015-02-04 ; Times: 2
+	Date: 2015-02-05 ; Times: 3
+	Date: 2015-02-06 ; Times: 1
+	Date: 2015-02-10 ; Times: 3
+	Date: 2015-02-11 ; Times: 1
+	Date: 2015-02-13 ; Times: 1
+	Date: 2015-02-17 ; Times: 1
+	Date: 2015-02-24 ; Times: 3
+	Date: 2015-02-25 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: ""sciurus arizonensis"" ; Times: 1
+	Query: "Dipodomys merriami stateprovince:"Coahuila"" ; Times: 1
+	Query: "stateprovince:"Michigan" specificepithet:volans genus:Glaucomys" ; Times: 1
+	Query: "Dipodomys merriami" ; Times: 1
+	Query: "Didelphis virginiana" ; Times: 1
+	Query: "stateprovince:"Kentucky"" ; Times: 1
+	Query: ""Mephitis macroura" stateprovince:"New Mexico"" ; Times: 1
+	Query: "type:specimen specificepithet:leucopus genus:Peromyscus year >= 1901 year <= 2015" ; Times: 1
+	Query: "specificepithet:polionotus genus:Peromyscus year >= 1920 year <= 1970" ; Times: 1
+	Query: "genus:Tursiops" ; Times: 1
+	Query: "genus:bradypus" ; Times: 1
+	Query: "type:specimen specificepithet:striatus genus:tamias year >= 1970 year <= 2015" ; Times: 1
+	Query: "type:specimen specificepithet:striatus genus:Tamias year >= 1965 year <= 2015" ; Times: 2
+	Query: "Chaetodipus arenarius" ; Times: 1
+	Query: "puma concolor" ; Times: 2
+	Query: "stateprovince:"New Mexico" class:mammalia year >= 1995 year <= 2014" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 91
+Total number of records retrieved from searches: 602
+Number of download events that retrieved data from the resource: 79
+Total number of records downloaded: 4418
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 104
+Total number of records retrieved from searches: 832
+Number of download events that retrieved data from the resource: 486
+Total number of records downloaded: 35532
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
