@@ -1,0 +1,105 @@
+Report for Institution Code WNMU, Resource wnmu_mamm
+Usage stats for June, 2015, generated on 2015/07/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 5
+Number of records retrieved in searches: 7
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-06-02 ; Times: 1
+	Date: 2015-06-05 ; Times: 1
+	Date: 2015-06-08 ; Times: 1
+	Date: 2015-06-09 ; Times: 1
+	Date: 2015-06-13 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "261863" ; Times: 1
+	Query: "180204" ; Times: 1
+	Query: "Euderma maculatum country:"United States"" ; Times: 1
+	Query: "pocket gophers" ; Times: 1
+	Query: "Euderma maculatum" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 34 (out of 1524 download events in this period)
+Total number of records downloaded: 595 (out of 2759084 records downloaded for all resources in this period)
+Total number of unique records downloaded: 542
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Mexico ; Times: 6
+	Country: United States ; Times: 26
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-06-01 ; Times: 3
+	Date: 2015-06-02 ; Times: 1
+	Date: 2015-06-09 ; Times: 11
+	Date: 2015-06-10 ; Times: 1
+	Date: 2015-06-11 ; Times: 3
+	Date: 2015-06-16 ; Times: 5
+	Date: 2015-06-18 ; Times: 1
+	Date: 2015-06-19 ; Times: 3
+	Date: 2015-06-24 ; Times: 1
+	Date: 2015-06-25 ; Times: 3
+	Date: 2015-06-26 ; Times: 1
+	Date: 2015-06-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Kuwait" ; Times: 1
+	Query: "Macrophyllum" ; Times: 1
+	Query: "sciurus carolinensis" ; Times: 1
+	Query: "Myotis volans country:"United States"" ; Times: 1
+	Query: "Myotis yumanensis country:"United States"" ; Times: 1
+	Query: "turkey" ; Times: 1
+	Query: "Tamias minimus" ; Times: 1
+	Query: "Lasiurus cinereus country:"United States"" ; Times: 1
+	Query: "Diaemus youngi" ; Times: 2
+	Query: ""didelphis virginiana"" ; Times: 1
+	Query: "Sturnira" ; Times: 1
+	Query: "Jordan" ; Times: 1
+	Query: "sciurus niger rufiventer" ; Times: 1
+	Query: "Canis latrans" ; Times: 1
+	Query: "spilogale putorius" ; Times: 1
+	Query: "israel" ; Times: 1
+	Query: "type:specimen country:"United States" specificepithet:pennanti class:Mammalia" ; Times: 1
+	Query: "specificepithet:pinetis genus:geomys" ; Times: 1
+	Query: "Leptonycteris nivalis" ; Times: 1
+	Query: "Antrozous pallidus country:"United States"" ; Times: 1
+	Query: "stateprovince:"oklahoma" class:Mammalia" ; Times: 1
+	Query: "Sigmodon hispidus" ; Times: 1
+	Query: "Myotis evotis country:"United States"" ; Times: 1
+	Query: "stateprovince:"Colima" country:"Mexico"" ; Times: 1
+	Query: "Sturnira ludovici country:"Mexico"" ; Times: 2
+	Query: "Illinois" ; Times: 1
+	Query: "Myotis thysanodes country:"United States"" ; Times: 1
+	Query: "Myotis keenii country:"United States"" ; Times: 1
+	Query: "Lasionycteris noctivagans country:"United States"" ; Times: 1
+	Query: "Euderma maculatum country:"United States"" ; Times: 1
+	Query: "Eptesicus fuscus country:"United States"" ; Times: 2
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 113
+Total number of records retrieved from searches: 635
+Number of download events that retrieved data from the resource: 179
+Total number of records downloaded: 18700
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 126
+Total number of records retrieved from searches: 865
+Number of download events that retrieved data from the resource: 586
+Total number of records downloaded: 49814
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
