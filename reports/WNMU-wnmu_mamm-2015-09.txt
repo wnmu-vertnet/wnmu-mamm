@@ -1,0 +1,177 @@
+Report for Institution Code WNMU, Resource wnmu_mamm
+Usage stats for September 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 73
+Number of records retrieved in searches: 460
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 45
+	Country: Unknown ; Times: 18
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 9
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-09-01 ; Times: 3
+	Date: 2015-09-11 ; Times: 2
+	Date: 2015-09-05 ; Times: 33
+	Date: 2015-09-04 ; Times: 2
+	Date: 2015-09-03 ; Times: 2
+	Date: 2015-09-23 ; Times: 1
+	Date: 2015-09-16 ; Times: 1
+	Date: 2015-09-17 ; Times: 2
+	Date: 2015-09-25 ; Times: 1
+	Date: 2015-09-19 ; Times: 3
+	Date: 2015-09-20 ; Times: 2
+	Date: 2015-09-09 ; Times: 3
+	Date: 2015-09-08 ; Times: 18
+
+List of queries that retrieved data from the resource: 
+	Query: "Eumops underwoodi" ; Times: 3
+	Query: "Mustela rixosa country:&#34;United States&#34;" ; Times: 1
+	Query: "Myotis austroriparius" ; Times: 3
+	Query: "Lasiurus ega" ; Times: 3
+	Query: "Natalus mexicanus" ; Times: 3
+	Query: "sylvilagus audubonii hidalgo" ; Times: 1
+	Query: "Nyctinomops macrotis" ; Times: 3
+	Query: "Myotis auriculus" ; Times: 3
+	Query: "Choeronycteris mexicana" ; Times: 3
+	Query: "Sigmodon ochrognathus" ; Times: 1
+	Query: "Myotis leibii" ; Times: 3
+	Query: "Ammospermophilus interpres" ; Times: 3
+	Query: "cochise county &#34;Peromyscus maniculatus&#34; (Portal) year &gt;= 1977 year &lt;= 2005" ; Times: 1
+	Query: "Coendou" ; Times: 2
+	Query: "Leslie Canyon Arizona" ; Times: 1
+	Query: "cochise county &#34;Peromyscus maniculatus&#34; year &gt;= 1977 year &lt;= 2005" ; Times: 1
+	Query: "Leptonycteris nivalis" ; Times: 3
+	Query: "Sciurus arizonensis" ; Times: 1
+	Query: "Peromyscus guardia" ; Times: 1
+	Query: "Lasiurus intermedius" ; Times: 3
+	Query: "Myotis occultus" ; Times: 3
+	Query: "Idionycteris phyllotis" ; Times: 3
+	Query: "Euderma maculatum" ; Times: 7
+	Query: "catalognumber:5861" ; Times: 1
+	Query: "Eumops perotis" ; Times: 3
+	Query: "Myotis keenii" ; Times: 3
+	Query: "Nyctinomops femorosaccus" ; Times: 2
+	Query: "Noctilio leporinus" ; Times: 3
+	Query: "Chiroptera country:&#34;Kenya&#34; year &gt;= 1966 year &lt;= 1966" ; Times: 1
+	Query: "euderma maculatum" ; Times: 1
+	Query: "Lasiurus blossevillii" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 124 (out of 1045 download events in this period)
+Total number of records downloaded: 9681
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 5
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 5
+	Country: Unknown ; Times: 9
+	Country: France ; Times: 2
+	Country: United States ; Times: 99
+	Country: Sweden ; Times: 1
+	Country: Hungary ; Times: 1
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-09-10 ; Times: 25
+	Date: 2015-09-11 ; Times: 6
+	Date: 2015-09-12 ; Times: 2
+	Date: 2015-09-13 ; Times: 1
+	Date: 2015-09-14 ; Times: 6
+	Date: 2015-09-15 ; Times: 16
+	Date: 2015-09-16 ; Times: 29
+	Date: 2015-09-17 ; Times: 6
+	Date: 2015-09-18 ; Times: 1
+	Date: 2015-09-19 ; Times: 1
+	Date: 2015-09-30 ; Times: 3
+	Date: 2015-09-28 ; Times: 1
+	Date: 2015-09-07 ; Times: 1
+	Date: 2015-09-05 ; Times: 2
+	Date: 2015-09-04 ; Times: 1
+	Date: 2015-09-29 ; Times: 8
+	Date: 2015-09-02 ; Times: 1
+	Date: 2015-09-01 ; Times: 3
+	Date: 2015-09-25 ; Times: 2
+	Date: 2015-09-23 ; Times: 1
+	Date: 2015-09-27 ; Times: 1
+	Date: 2015-09-22 ; Times: 2
+	Date: 2015-09-21 ; Times: 2
+	Date: 2015-09-20 ; Times: 1
+	Date: 2015-09-09 ; Times: 1
+	Date: 2015-09-08 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Condylura cristata" ; Times: 1
+	Query: "stateprovince:&#34;texas&#34; specificepithet:personatus genus:geomys" ; Times: 1
+	Query: "Mephitis mephitis" ; Times: 1
+	Query: "Myotis evotis" ; Times: 1
+	Query: "Ondatra zibethicus" ; Times: 1
+	Query: "mustela nivalis" ; Times: 1
+	Query: "Myotis volans" ; Times: 1
+	Query: "Procyon lotor" ; Times: 1
+	Query: "Microtus pinetorum" ; Times: 2
+	Query: "dipodomys ordii" ; Times: 9
+	Query: "Sorex monticolus" ; Times: 1
+	Query: "Sorex palustris" ; Times: 1
+	Query: "Sorex araneus" ; Times: 1
+	Query: "Sciurus griseus" ; Times: 1
+	Query: "Microtus longicaudus" ; Times: 2
+	Query: "genus:Peromyscus" ; Times: 1
+	Query: "gunnisoni" ; Times: 1
+	Query: "Sorex vagrans" ; Times: 1
+	Query: "genus:Diaemus" ; Times: 1
+	Query: "Myotis lucifugus" ; Times: 2
+	Query: "Tamias minimus" ; Times: 5
+	Query: "Spermophilus tridecemlineatus" ; Times: 1
+	Query: "Spermophilus lateralis" ; Times: 1
+	Query: "genus:Marmosa" ; Times: 1
+	Query: "family:geomyidae type:specimen mappable:1" ; Times: 1
+	Query: "taxidea taxus mexico" ; Times: 1
+	Query: "genus:ochotona" ; Times: 5
+	Query: "Ursus americanus" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 35
+	Query: "stateprovince:&#34;texas&#34; specificepithet:personatus genus:geomys year &gt;= 1960 year &lt;= 2015" ; Times: 2
+	Query: "tamiasciurus douglasii" ; Times: 1
+	Query: "Lontra canadensis" ; Times: 1
+	Query: "Lasionycteris noctivagans" ; Times: 1
+	Query: "order:Chiroptera continent:North America" ; Times: 2
+	Query: "(Peromyscus)" ; Times: 1
+	Query: "Canis latrans" ; Times: 1
+	Query: "Tamias amoenus" ; Times: 2
+	Query: "ochotona princeps" ; Times: 1
+	Query: "Lasiurus cinereus" ; Times: 1
+	Query: "Sylvilagus floridanus" ; Times: 1
+	Query: "stateprovince:&#34;Wyoming&#34; specificepithet:princeps genus:zapus" ; Times: 1
+	Query: "Microtus ochrogaster" ; Times: 1
+	Query: "Eptesicus fuscus" ; Times: 1
+	Query: "Euderma maculatum" ; Times: 2
+	Query: "Onychomys leucogaster" ; Times: 1
+	Query: "dipodomys (coahuila)" ; Times: 1
+	Query: "Spermophilus armatus" ; Times: 1
+	Query: "gloyd" ; Times: 1
+	Query: "dipodomys merriami" ; Times: 1
+	Query: "Blarina brevicauda" ; Times: 2
+	Query: "Tamiasciurus hudsonicus" ; Times: 1
+	Query: "Antilocapra americana" ; Times: 1
+	Query: "Tamias striatus" ; Times: 1
+	Query: "order:Chiroptera continent:South America" ; Times: 2
+	Query: "Marmota monax" ; Times: 1
+	Query: "Microtus pennsylvanicus" ; Times: 1
+	Query: "Zapus hudsonius" ; Times: 1
+	Query: "genus:bradypus" ; Times: 1
+	Query: "procyon lotor mexico" ; Times: 1
+	Query: "Erethizon dorsatum" ; Times: 1
+	Query: "Napaeozapus insignis" ; Times: 1
+	Query: "Castor canadensis" ; Times: 1
+	Query: "Zapus princeps" ; Times: 1
+	Query: "Odocoileus hemionus" ; Times: 1
+	Query: "Vulpes vulpes" ; Times: 1
+
+
+End of report.
