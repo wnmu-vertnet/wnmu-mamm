@@ -1,0 +1,101 @@
+Report for Institution Code WNMU, Resource wnmu_mamm
+Usage stats for January 2016, generated on 2016/02/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 9
+Number of records retrieved in searches: 60
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 6
+	Country: Unknown ; Times: 1
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-31 ; Times: 1
+	Date: 2016-01-21 ; Times: 1
+	Date: 2016-01-24 ; Times: 1
+	Date: 2016-01-28 ; Times: 2
+	Date: 2016-01-29 ; Times: 1
+	Date: 2016-01-19 ; Times: 1
+	Date: 2016-01-07 ; Times: 1
+	Date: 2016-01-14 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Idionycteris stateprovince:&#34;New Mexico&#34;" ; Times: 2
+	Query: "Dipodomys merriami county:&#34;San Diego&#34;" ; Times: 1
+	Query: "specificepithet:hudsonius genus:zapus stateprovince:(minnesota OR new mexico)" ; Times: 1
+	Query: "type:specimen specificepithet:sumichrasti genus:reithrodontomys country:&#34;mexico&#34; year &gt;= 1960 year &lt;= 2015" ; Times: 1
+	Query: "specificepithet:humeralis genus:nycticeius stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "Euderma stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "nycticeius humeralis new mexico" ; Times: 1
+	Query: "reithrodontomys sumichrasti type:specimen country:&#34;mexico&#34; year &gt;= 1960 year &lt;= 2015" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 36 (out of 507 download events in this period)
+Total number of records downloaded: 2720
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: United States ; Times: 22
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 8
+	Country: United Kingdom ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-31 ; Times: 3
+	Date: 2016-01-05 ; Times: 2
+	Date: 2016-01-06 ; Times: 3
+	Date: 2016-01-21 ; Times: 2
+	Date: 2016-01-26 ; Times: 1
+	Date: 2016-01-01 ; Times: 1
+	Date: 2016-01-03 ; Times: 1
+	Date: 2016-01-28 ; Times: 1
+	Date: 2016-01-29 ; Times: 3
+	Date: 2016-01-09 ; Times: 1
+	Date: 2016-01-04 ; Times: 2
+	Date: 2016-01-19 ; Times: 1
+	Date: 2016-01-18 ; Times: 1
+	Date: 2016-01-13 ; Times: 2
+	Date: 2016-01-12 ; Times: 3
+	Date: 2016-01-11 ; Times: 3
+	Date: 2016-01-10 ; Times: 3
+	Date: 2016-01-16 ; Times: 1
+	Date: 2016-01-15 ; Times: 1
+	Date: 2016-01-27 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "lasiurus ega stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "reithrodontomys sumichrasti" ; Times: 1
+	Query: "boylii" ; Times: 1
+	Query: "specificepithet:griseus genus:Sciurus" ; Times: 1
+	Query: "specificepithet:penicillatus genus:Chaetodipus" ; Times: 1
+	Query: "specificepithet:merriami genus:Dipodomys" ; Times: 1
+	Query: "specificepithet:ordii genus:Dipodomys" ; Times: 1
+	Query: "microtus pennsylvanicus" ; Times: 1
+	Query: "Idionycteris stateprovince:&#34;New Mexico&#34;" ; Times: 2
+	Query: "peromyscus boylii" ; Times: 1
+	Query: "family:Caviidae OR Abrocomidae OR Dinomyidae OR Dasyproctidae OR Cuniculidae OR Octodontidae OR Ctenomyidae OR Echimyidae OR Myocastoridae OR Capromyidae OR Heptaxodontidae OR Chinchillidae" ; Times: 1
+	Query: "Ochotona princeps" ; Times: 1
+	Query: "Lynx lynx" ; Times: 1
+	Query: "microtus pinetorum" ; Times: 1
+	Query: "genus:ochotona" ; Times: 1
+	Query: "Lynx rufus" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 9
+	Query: "specificepithet:maniculatus genus:Peromyscus" ; Times: 1
+	Query: "dasypus novemcinctus type:specimen preparations:skin" ; Times: 1
+	Query: "specificepithet:mephitis genus:Mephitis" ; Times: 1
+	Query: "specificepithet:montanus genus:Microtus" ; Times: 1
+	Query: "Cynomys" ; Times: 1
+	Query: "Blarina brevicauda stateprovince:&#34;Minnesota&#34;" ; Times: 1
+	Query: "specificepithet:frenata genus:Mustela" ; Times: 1
+	Query: "specificepithet:americanus genus:Lepus" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon" ; Times: 1
+	Query: "Puma concolor" ; Times: 1
+
+
+End of report.
