@@ -1,0 +1,135 @@
+Report for Institution Code WNMU, Resource wnmu_mamm
+Usage stats for April 2016, generated on 2016/05/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 90
+Number of records retrieved in searches: 99
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 67
+	Country: Unknown ; Times: 22
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-03 ; Times: 2
+	Date: 2016-04-07 ; Times: 2
+	Date: 2016-04-06 ; Times: 2
+	Date: 2016-04-05 ; Times: 2
+	Date: 2016-04-04 ; Times: 2
+	Date: 2016-04-21 ; Times: 3
+	Date: 2016-04-20 ; Times: 4
+	Date: 2016-04-23 ; Times: 4
+	Date: 2016-04-22 ; Times: 5
+	Date: 2016-04-25 ; Times: 3
+	Date: 2016-04-24 ; Times: 4
+	Date: 2016-04-09 ; Times: 2
+	Date: 2016-04-26 ; Times: 5
+	Date: 2016-04-08 ; Times: 2
+	Date: 2016-04-27 ; Times: 7
+	Date: 2016-04-18 ; Times: 4
+	Date: 2016-04-19 ; Times: 3
+	Date: 2016-04-14 ; Times: 12
+	Date: 2016-04-15 ; Times: 4
+	Date: 2016-04-16 ; Times: 4
+	Date: 2016-04-17 ; Times: 4
+	Date: 2016-04-10 ; Times: 1
+	Date: 2016-04-11 ; Times: 4
+	Date: 2016-04-12 ; Times: 3
+	Date: 2016-04-13 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "distance(location,geopoint(31.639036,-111.317516))&lt;15000" ; Times: 1
+	Query: "specificepithet:hudsonius genus:zapus stateprovince:(minnesota OR new mexico)" ; Times: 81
+	Query: "Sorex merriami New Mexico" ; Times: 1
+	Query: "Bassariscus specimens texas type:specimen" ; Times: 1
+	Query: "Callithricidae" ; Times: 1
+	Query: "mephitis macroura" ; Times: 2
+	Query: "skel family:echimyidae" ; Times: 1
+	Query: "stateprovince:&#34;new mexico&#34; specificepithet:arizonensis genus:sciurus year &gt;= 1970 year &lt;= 2015" ; Times: 1
+	Query: "stateprovince:&#34;indiana&#34; specificepithet:bursarius genus:geomys year &gt;= 1900 year &lt;= 2015" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 165 (out of 1312 download events in this period)
+Total number of records downloaded: 1525
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 87
+	Country: Unknown ; Times: 21
+	Country: Portugal ; Times: 7
+	Country: Colombia ; Times: 1
+	Country: Mexico ; Times: 49
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-09 ; Times: 5
+	Date: 2016-04-03 ; Times: 2
+	Date: 2016-04-02 ; Times: 1
+	Date: 2016-04-07 ; Times: 3
+	Date: 2016-04-06 ; Times: 7
+	Date: 2016-04-05 ; Times: 2
+	Date: 2016-04-04 ; Times: 2
+	Date: 2016-04-21 ; Times: 2
+	Date: 2016-04-20 ; Times: 9
+	Date: 2016-04-23 ; Times: 18
+	Date: 2016-04-08 ; Times: 2
+	Date: 2016-04-25 ; Times: 7
+	Date: 2016-04-24 ; Times: 6
+	Date: 2016-04-27 ; Times: 9
+	Date: 2016-04-26 ; Times: 7
+	Date: 2016-04-22 ; Times: 7
+	Date: 2016-04-18 ; Times: 4
+	Date: 2016-04-19 ; Times: 11
+	Date: 2016-04-14 ; Times: 13
+	Date: 2016-04-15 ; Times: 10
+	Date: 2016-04-16 ; Times: 12
+	Date: 2016-04-17 ; Times: 7
+	Date: 2016-04-10 ; Times: 1
+	Date: 2016-04-11 ; Times: 3
+	Date: 2016-04-12 ; Times: 9
+	Date: 2016-04-13 ; Times: 3
+	Date: 2016-04-29 ; Times: 1
+	Date: 2016-04-28 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "mammals of new mexico" ; Times: 7
+	Query: "peromyscus nasutus" ; Times: 1
+	Query: "Geomys stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "tamiasciurus hudsonicus" ; Times: 1
+	Query: "genus:Spilogale" ; Times: 1
+	Query: "type:specimen class:Mammalia stateprovince:&#34;New Mexico&#34; mappable:1 distance(location,geopoint(33.063924198120645,-108.15765380859375))&lt;41580.77121872904" ; Times: 1
+	Query: "type:specimen genus:Sciurus stateprovince:&#34;Indiana&#34;" ; Times: 1
+	Query: "sciurus carolinensis" ; Times: 1
+	Query: "type:specimen specificepithet:niger genus:Sciurus" ; Times: 1
+	Query: "micronycteris" ; Times: 1
+	Query: "mammals of texas" ; Times: 13
+	Query: "type:specimen specificepithet:griseus genus:Sciurus" ; Times: 1
+	Query: "Sciurus griseus" ; Times: 1
+	Query: "microtus pennsylvanicus" ; Times: 1
+	Query: "stateprovince:&#34;new mexico&#34; specificepithet:arizonensis genus:sciurus year &gt;= 1970 year &lt;= 2015" ; Times: 2
+	Query: "specificepithet:leucopus genus:Peromyscus stateprovince:&#34;Michigan&#34;" ; Times: 2
+	Query: "sciurus aberti" ; Times: 1
+	Query: "type:specimen specificepithet:carolinensis genus:Sciurus" ; Times: 1
+	Query: "Sciurus niger" ; Times: 1
+	Query: "mammals texas" ; Times: 1
+	Query: "Sciurus arizonensis" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 85
+	Query: "Odocoileus" ; Times: 1
+	Query: "tamias striatus" ; Times: 1
+	Query: "THE MAMMALS OF NEW MEXICO" ; Times: 22
+	Query: "Geomyidae" ; Times: 1
+	Query: "glaucomys" ; Times: 1
+	Query: "Sciurus niger AND preparations:skull" ; Times: 1
+	Query: "Sciurus carolinensis AND preparations:skull type:specimen" ; Times: 1
+	Query: "herpestes javanicus" ; Times: 1
+	Query: "Sciurus griseus AND preparations:skull type:specimen" ; Times: 1
+	Query: "type:specimen genus:Sciurus stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "thomomys bottae" ; Times: 3
+	Query: "specificepithet:leucopus genus:Peromyscus continent:North America" ; Times: 1
+	Query: "mammals of the new mexico" ; Times: 3
+	Query: "dipodomys deserti" ; Times: 1
+
+
+End of report.
