@@ -1,0 +1,76 @@
+Report for Institution Code WNMU, Resource wnmu_mamm
+Usage stats for May 2016, generated on 2016/06/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 17
+Number of records retrieved in searches: 304
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 16
+	Country: Colombia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-19 ; Times: 1
+	Date: 2016-05-02 ; Times: 1
+	Date: 2016-05-31 ; Times: 10
+	Date: 2016-05-22 ; Times: 1
+	Date: 2016-05-15 ; Times: 1
+	Date: 2016-05-29 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:cinereicollis genus:tamias institutioncode:WNMU" ; Times: 1
+	Query: "cyclopes didactylus" ; Times: 1
+	Query: "specificepithet:quadrivittatus genus:tamias institutioncode:WNMU" ; Times: 1
+	Query: "specificepithet:hudsonius genus:zapus stateprovince:(minnesota OR new mexico)" ; Times: 2
+	Query: "specificepithet:amoenus genus:tamias institutioncode:WNMU" ; Times: 1
+	Query: "specificepithet:canipes genus:tamias institutioncode:WNMU" ; Times: 1
+	Query: "specificepithet:minimus genus:tamias institutioncode:WNMU" ; Times: 1
+	Query: "stateprovince:&#34;Arizona&#34; genus:nasua year &gt;= 1900 year &lt;= 2015" ; Times: 1
+	Query: "specificepithet:striatus genus:tamias institutioncode:WNMU" ; Times: 1
+	Query: "specificepithet:townsendii genus:Lepus year &gt;= 1990 year &lt;= 2016" ; Times: 1
+	Query: "genus:tamias institutioncode:WNMU" ; Times: 2
+	Query: "specificepithet:dorsalis genus:tamias institutioncode:WNMU" ; Times: 1
+	Query: "stateprovince:&#34;New Mexico&#34; specificepithet:arizonensis genus:Sciurus" ; Times: 1
+	Query: "stateprovince:&#34;New Mexico&#34; specificepithet:Stephensi genus:Neotoma" ; Times: 1
+	Query: "specificepithet:siskiyou genus:tamias institutioncode:WNMU" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 15 (out of 327 download events in this period)
+Total number of records downloaded: 2314
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 9
+	Country: Colombia ; Times: 1
+	Country: Mexico ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-04 ; Times: 1
+	Date: 2016-05-01 ; Times: 1
+	Date: 2016-05-13 ; Times: 1
+	Date: 2016-05-12 ; Times: 4
+	Date: 2016-05-05 ; Times: 2
+	Date: 2016-05-31 ; Times: 1
+	Date: 2016-05-20 ; Times: 1
+	Date: 2016-05-22 ; Times: 2
+	Date: 2016-05-29 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "cyclopes didactylus" ; Times: 1
+	Query: "Peromyscus" ; Times: 1
+	Query: "specificepithet:virginiana genus:Didelphis" ; Times: 1
+	Query: "Canis type:specimen" ; Times: 1
+	Query: "genus:Lepus continent:North America" ; Times: 2
+	Query: "puma concolor" ; Times: 1
+	Query: "Marmota marmota" ; Times: 1
+	Query: "stateprovince:&#34;New Mexico&#34; specificepithet:arizonensis genus:Sciurus" ; Times: 1
+	Query: "stateprovince:&#34;New Mexico&#34; specificepithet:Stephensi genus:Neotoma" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 2
+	Query: "uroderma bilobatum country:&#34;mexico&#34;" ; Times: 1
+	Query: "PUMA CONCOLOR" ; Times: 2
+
+
+End of report.
