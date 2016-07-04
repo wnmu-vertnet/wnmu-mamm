@@ -1,0 +1,145 @@
+Report for Institution Code WNMU, Resource wnmu_mamm
+Usage stats for June 2016, generated on 2016/07/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 68
+Number of records retrieved in searches: 84
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 54
+	Country: Unknown ; Times: 4
+	Country: Portugal ; Times: 6
+	Country: Mexico ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-24 ; Times: 1
+	Date: 2016-06-23 ; Times: 2
+	Date: 2016-06-22 ; Times: 2
+	Date: 2016-06-21 ; Times: 3
+	Date: 2016-06-20 ; Times: 9
+	Date: 2016-06-05 ; Times: 2
+	Date: 2016-06-04 ; Times: 2
+	Date: 2016-06-06 ; Times: 2
+	Date: 2016-06-01 ; Times: 4
+	Date: 2016-06-03 ; Times: 2
+	Date: 2016-06-02 ; Times: 2
+	Date: 2016-06-09 ; Times: 2
+	Date: 2016-06-08 ; Times: 3
+	Date: 2016-06-18 ; Times: 4
+	Date: 2016-06-19 ; Times: 3
+	Date: 2016-06-16 ; Times: 4
+	Date: 2016-06-17 ; Times: 3
+	Date: 2016-06-14 ; Times: 4
+	Date: 2016-06-15 ; Times: 2
+	Date: 2016-06-12 ; Times: 4
+	Date: 2016-06-13 ; Times: 4
+	Date: 2016-06-10 ; Times: 2
+	Date: 2016-06-11 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "182 oryzomys" ; Times: 1
+	Query: "specificepithet:hudsonius genus:zapus stateprovince:(minnesota OR new mexico)" ; Times: 47
+	Query: "specificepithet:Pennsylvanicus genus:Microtus stateprovince:&#34;New hampshire&#34;" ; Times: 1
+	Query: "euderma" ; Times: 1
+	Query: "Spilogale (New Mexico)" ; Times: 2
+	Query: "Mus musculus" ; Times: 1
+	Query: "Rattus norvegicus" ; Times: 1
+	Query: "Myocastor coypus 1" ; Times: 2
+	Query: "Mus musculus 1" ; Times: 2
+	Query: "specificepithet:pennsylvanicus genus:microtus stateprovince:&#34;maine&#34;" ; Times: 1
+	Query: "Rattus norvegicus 1" ; Times: 1
+	Query: "specificepithet:pennsylvanicus genus:microtus stateprovince:&#34;new hampshire&#34; institutioncode:WNMU" ; Times: 2
+	Query: "specificepithet:pennsylvanicus genus:microtus stateprovince:&#34;new hampshire&#34;" ; Times: 1
+	Query: "genus:Leptonycteris specificepithet:nivalis stateprovince:&#34;Texas&#34; country:&#34;United States&#34; continent:North America" ; Times: 1
+	Query: "8442 mammalia" ; Times: 1
+	Query: "Snow lake new mexico" ; Times: 1
+	Query: "Procyon lotor 1" ; Times: 1
+	Query: "genus:Lasiurus specificepithet:ega stateprovince:&#34;Texas&#34; country:&#34;United States&#34; continent:North America AND (NOT panamensis)" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 107 (out of 1052 download events in this period)
+Total number of records downloaded: 1286
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 74
+	Country: Unknown ; Times: 6
+	Country: Mexico ; Times: 27
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-24 ; Times: 1
+	Date: 2016-06-09 ; Times: 2
+	Date: 2016-06-22 ; Times: 4
+	Date: 2016-06-21 ; Times: 2
+	Date: 2016-06-20 ; Times: 5
+	Date: 2016-06-05 ; Times: 2
+	Date: 2016-06-04 ; Times: 2
+	Date: 2016-06-06 ; Times: 3
+	Date: 2016-06-01 ; Times: 2
+	Date: 2016-06-03 ; Times: 6
+	Date: 2016-06-02 ; Times: 3
+	Date: 2016-06-23 ; Times: 5
+	Date: 2016-06-08 ; Times: 7
+	Date: 2016-06-18 ; Times: 8
+	Date: 2016-06-19 ; Times: 2
+	Date: 2016-06-16 ; Times: 8
+	Date: 2016-06-17 ; Times: 12
+	Date: 2016-06-14 ; Times: 5
+	Date: 2016-06-15 ; Times: 8
+	Date: 2016-06-12 ; Times: 3
+	Date: 2016-06-13 ; Times: 11
+	Date: 2016-06-10 ; Times: 3
+	Date: 2016-06-11 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "erethizon" ; Times: 1
+	Query: "Sorex cinereus" ; Times: 2
+	Query: "Rattus norvegicus" ; Times: 2
+	Query: "macropus rufus" ; Times: 2
+	Query: "dipodomys microps" ; Times: 2
+	Query: "peromyscus mexicanus" ; Times: 1
+	Query: "Microtus mexicanus" ; Times: 1
+	Query: "Puma concolor" ; Times: 3
+	Query: "VULPES VULPES" ; Times: 1
+	Query: "Tamias minimus" ; Times: 1
+	Query: "Leptonycteris nivalis" ; Times: 1
+	Query: "nasua nasua" ; Times: 1
+	Query: "Dasypus novemcinctus" ; Times: 1
+	Query: "microtus pinetorum" ; Times: 1
+	Query: "microtus oeconomus" ; Times: 1
+	Query: "microtus mexicanus" ; Times: 1
+	Query: "Ursus americanus" ; Times: 1
+	Query: "peromyscus gossypinus" ; Times: 1
+	Query: "puma concolor" ; Times: 6
+	Query: "Spilogale (New Mexico)" ; Times: 1
+	Query: "microtus ochrogaster" ; Times: 1
+	Query: "genus:Lasiurus specificepithet:ega stateprovince:&#34;Texas&#34; country:&#34;United States&#34; continent:North America AND (NOT panamensis)" ; Times: 1
+	Query: "Dipodomys merriami" ; Times: 1
+	Query: "Canis latrans" ; Times: 1
+	Query: "Lepus americanus" ; Times: 1
+	Query: "specificepithet:pennsylvanicus genus:microtus stateprovince:&#34;maine&#34;" ; Times: 1
+	Query: "Ursus arctos" ; Times: 1
+	Query: "microtus oregoni" ; Times: 1
+	Query: "desmodus rotundus" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:pennsylvanicus genus:Microtus" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 49
+	Query: "dipodomys merriami" ; Times: 1
+	Query: "canis latrans" ; Times: 3
+	Query: "Marmota monax" ; Times: 1
+	Query: "Martes pennanti" ; Times: 1
+	Query: "Glaucomys volans" ; Times: 1
+	Query: "Zapus hudsonius" ; Times: 1
+	Query: "microtus townsendii" ; Times: 1
+	Query: "Atelerix" ; Times: 2
+	Query: "Peromyscus mexicanus" ; Times: 1
+	Query: "MUSTELA frenata" ; Times: 1
+	Query: "genus:Leptonycteris specificepithet:nivalis stateprovince:&#34;Texas&#34; country:&#34;United States&#34; continent:North America" ; Times: 1
+	Query: "Castor canadensis" ; Times: 1
+	Query: "Vulpes vulpes" ; Times: 1
+
+
+End of report.
