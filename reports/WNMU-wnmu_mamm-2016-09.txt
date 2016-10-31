@@ -1,0 +1,130 @@
+Report for Institution Code WNMU, Resource wnmu_mamm
+Usage stats for September 2016, generated on 2016/10/31
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 76
+Number of records retrieved in searches: 84
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 18
+	Country: Unknown ; Times: 2
+	Country: Netherlands ; Times: 47
+	Country: Portugal ; Times: 4
+	Country: Colombia ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-09-13 ; Times: 4
+	Date: 2016-09-12 ; Times: 4
+	Date: 2016-09-11 ; Times: 4
+	Date: 2016-09-10 ; Times: 9
+	Date: 2016-09-17 ; Times: 4
+	Date: 2016-09-16 ; Times: 5
+	Date: 2016-09-15 ; Times: 3
+	Date: 2016-09-14 ; Times: 2
+	Date: 2016-09-19 ; Times: 1
+	Date: 2016-09-18 ; Times: 1
+	Date: 2016-09-07 ; Times: 6
+	Date: 2016-09-24 ; Times: 1
+	Date: 2016-09-25 ; Times: 1
+	Date: 2016-09-28 ; Times: 1
+	Date: 2016-09-08 ; Times: 2
+	Date: 2016-09-09 ; Times: 3
+	Date: 2016-09-23 ; Times: 1
+	Date: 2016-09-04 ; Times: 1
+	Date: 2016-09-05 ; Times: 3
+	Date: 2016-09-06 ; Times: 3
+	Date: 2016-09-21 ; Times: 1
+	Date: 2016-09-26 ; Times: 1
+	Date: 2016-09-01 ; Times: 6
+	Date: 2016-09-02 ; Times: 7
+	Date: 2016-09-03 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "type:specimen specificepithet:franklinii genus:spermophilus month &gt;= 1 month &lt;= 5" ; Times: 1
+	Query: "Choeronycteris mexicana 1" ; Times: 1
+	Query: "specificepithet:hudsonius genus:zapus stateprovince:(minnesota OR new mexico)" ; Times: 54
+	Query: " specificepithet:hudsonius genus:zapus stateprovince:(minnesota OR new mexico)" ; Times: 5
+	Query: "museum specimens coendou prehensilis" ; Times: 2
+	Query: "specificepithet:hudsonius genus:zapus county:&#34;larimer&#34; stateprovince:&#34;colorado&#34;" ; Times: 1
+	Query: "Leptonycteris nivalis 1" ; Times: 1
+	Query: "Myocastor coypus 1" ; Times: 1
+	Query: "Pithecia pithecia 1" ; Times: 1
+	Query: "vulpes macrotis stateprovince:&#34;new mexico&#34;" ; Times: 1
+	Query: "Musonycteris harrisoni 1" ; Times: 1
+	Query: "nycticebus coucang" ; Times: 1
+	Query: "Procyon lotor 1" ; Times: 2
+	Query: "Glossophaga leachii 1" ; Times: 1
+	Query: "specificepithet:Variegatus genus:Spermophilus month &gt;= 1 month &lt;= 3" ; Times: 1
+	Query: "Rattus norvegicus 1" ; Times: 1
+	Query: "Mus musculus 1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 160 (out of 811 download events in this period)
+Total number of records downloaded: 5523
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 2
+	Country: Netherlands ; Times: 99
+	Country: Unknown ; Times: 1
+	Country: Costa Rica ; Times: 2
+	Country: United States ; Times: 54
+	Country: United Kingdom ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-09-13 ; Times: 6
+	Date: 2016-09-04 ; Times: 2
+	Date: 2016-09-11 ; Times: 7
+	Date: 2016-09-10 ; Times: 2
+	Date: 2016-09-17 ; Times: 1
+	Date: 2016-09-16 ; Times: 3
+	Date: 2016-09-15 ; Times: 8
+	Date: 2016-09-14 ; Times: 4
+	Date: 2016-09-30 ; Times: 5
+	Date: 2016-09-19 ; Times: 3
+	Date: 2016-09-18 ; Times: 4
+	Date: 2016-09-20 ; Times: 1
+	Date: 2016-09-21 ; Times: 3
+	Date: 2016-09-27 ; Times: 10
+	Date: 2016-09-02 ; Times: 17
+	Date: 2016-09-25 ; Times: 2
+	Date: 2016-09-28 ; Times: 3
+	Date: 2016-09-29 ; Times: 2
+	Date: 2016-09-08 ; Times: 5
+	Date: 2016-09-09 ; Times: 2
+	Date: 2016-09-22 ; Times: 4
+	Date: 2016-09-23 ; Times: 9
+	Date: 2016-09-06 ; Times: 7
+	Date: 2016-09-07 ; Times: 6
+	Date: 2016-09-01 ; Times: 12
+	Date: 2016-09-24 ; Times: 1
+	Date: 2016-09-03 ; Times: 15
+	Date: 2016-09-12 ; Times: 6
+	Date: 2016-09-05 ; Times: 10
+
+List of queries that retrieved data from the resource: 
+	Query: "glossophaga soricina" ; Times: 1
+	Query: "family:Soricidae stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "order:Rodentia stateprovince:&#34;Nevada&#34;" ; Times: 6
+	Query: "mustela nivalis" ; Times: 1
+	Query: "specificepithet:hudsonius genus:zapus county:&#34;larimer&#34; stateprovince:&#34;colorado&#34;" ; Times: 1
+	Query: "tamias amoenus" ; Times: 1
+	Query: "order:Rodentia stateprovince:&#34;California&#34;" ; Times: 12
+	Query: "desmodus rotundus" ; Times: 1
+	Query: "type:specimen specificepithet:franklinii genus:spermophilus month &gt;= 1 month &lt;= 5" ; Times: 1
+	Query: "Natalus" ; Times: 1
+	Query: "vulpes macrotis stateprovince:&#34;new mexico&#34;" ; Times: 1
+	Query: "artibeus jamaicensis" ; Times: 1
+	Query: "order:Rodentia stateprovince:&#34;Utah&#34;" ; Times: 4
+	Query: "genus:ochotona" ; Times: 2
+	Query: "mustela frenata" ; Times: 1
+	Query: "order:Rodentia stateprovince:&#34;Idaho&#34;" ; Times: 4
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 120
+	Query: "Myotis keenii" ; Times: 1
+
+
+End of report.
