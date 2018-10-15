@@ -1,0 +1,169 @@
+Report for Institution Code WNMU, Resource wnmu_mamm
+Usage stats for January 2018, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 64
+Number of records retrieved in searches: 89
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 48
+	Country: Mexico ; Times: 14
+	Country: France ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-01-19 ; Times: 1
+	Date: 2018-01-18 ; Times: 4
+	Date: 2018-01-31 ; Times: 1
+	Date: 2018-01-30 ; Times: 1
+	Date: 2018-01-11 ; Times: 1
+	Date: 2018-01-10 ; Times: 1
+	Date: 2018-01-13 ; Times: 1
+	Date: 2018-01-12 ; Times: 1
+	Date: 2018-01-15 ; Times: 1
+	Date: 2018-01-14 ; Times: 1
+	Date: 2018-01-17 ; Times: 1
+	Date: 2018-01-16 ; Times: 18
+	Date: 2018-01-08 ; Times: 2
+	Date: 2018-01-09 ; Times: 1
+	Date: 2018-01-28 ; Times: 5
+	Date: 2018-01-29 ; Times: 7
+	Date: 2018-01-24 ; Times: 1
+	Date: 2018-01-25 ; Times: 3
+	Date: 2018-01-26 ; Times: 2
+	Date: 2018-01-27 ; Times: 1
+	Date: 2018-01-06 ; Times: 1
+	Date: 2018-01-21 ; Times: 1
+	Date: 2018-01-22 ; Times: 1
+	Date: 2018-01-07 ; Times: 1
+	Date: 2018-01-05 ; Times: 4
+	Date: 2018-01-23 ; Times: 1
+	Date: 2018-01-20 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:hudsonius genus:zapus stateprovince:(minnesota OR new mexico)" ; Times: 30
+	Query: "Natalus mexicanus" ; Times: 1
+	Query: "genus:perodicticus country:&#34;kenya&#34;" ; Times: 1
+	Query: "nyctalus leisleri" ; Times: 1
+	Query: "specificepithet:gambianus genus:heliosciurus country:&#34;kenya&#34;" ; Times: 1
+	Query: "stateprovince:&#34;Minas Gerais&#34; country:&#34;Brazil&#34; institutioncode:WNMU" ; Times: 1
+	Query: "specificepithet:mitis genus:cercopithecus country:&#34;kenya&#34; institutioncode:WNMU" ; Times: 2
+	Query: "Dasypus novemcinctus" ; Times: 1
+	Query: "specificepithet:erythropus genus:xerus country:&#34;kenya&#34;" ; Times: 1
+	Query: "specificepithet:mitis genus:cercopithecus country:&#34;kenya&#34;" ; Times: 1
+	Query: "Carollia subrufa" ; Times: 1
+	Query: "specificepithet:rufobrachium genus:heliosciurus country:&#34;kenya&#34;" ; Times: 1
+	Query: "Choeronycteris mexicana" ; Times: 1
+	Query: "specificepithet:gambianus genus:heliosciurus country:&#34;kenya&#34; institutioncode:WNMU" ; Times: 2
+	Query: "Lasiurus intermedius" ; Times: 1
+	Query: "Centurio senex" ; Times: 1
+	Query: "Eptesicus brasiliensis" ; Times: 1
+	Query: "specificepithet:rufobrachium genus:heliosciurus country:&#34;kenya&#34; institutioncode:WNMU" ; Times: 2
+	Query: "Nasua narica" ; Times: 1
+	Query: "Myotis fortidens" ; Times: 1
+	Query: "Cyclopes didactylus" ; Times: 1
+	Query: "Rhogeessa parvula" ; Times: 1
+	Query: "Sylvilagus brasiliensis" ; Times: 1
+	Query: "dasypus novemcinctus class:Mammalia continent:North America mappable:1" ; Times: 1
+	Query: "Noctilio leporinus" ; Times: 1
+	Query: "specificepithet:erythropus genus:xerus country:&#34;kenya&#34; institutioncode:WNMU" ; Times: 2
+	Query: "Choeroniscus godmani" ; Times: 1
+	Query: "&#34;Dasypus novemcinctus&#34; mappable:1" ; Times: 1
+	Query: "genus:heliosciurus institutioncode:WNMU" ; Times: 1
+	Query: "genus:perodicticus country:&#34;kenya&#34; institutioncode:WNMU" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 56 (out of 1398 download events in this period)
+Total number of records downloaded: 1583
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Italy ; Times: 8
+	Country: Mexico ; Times: 2
+	Country: France ; Times: 4
+	Country: United States ; Times: 39
+	Country: Colombia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-01-19 ; Times: 1
+	Date: 2018-01-18 ; Times: 1
+	Date: 2018-01-31 ; Times: 8
+	Date: 2018-01-30 ; Times: 4
+	Date: 2018-01-29 ; Times: 2
+	Date: 2018-01-02 ; Times: 10
+	Date: 2018-01-15 ; Times: 1
+	Date: 2018-01-13 ; Times: 1
+	Date: 2018-01-06 ; Times: 6
+	Date: 2018-01-22 ; Times: 4
+	Date: 2018-01-16 ; Times: 1
+	Date: 2018-01-24 ; Times: 2
+	Date: 2018-01-17 ; Times: 2
+	Date: 2018-01-04 ; Times: 2
+	Date: 2018-01-25 ; Times: 2
+	Date: 2018-01-23 ; Times: 2
+	Date: 2018-01-26 ; Times: 5
+	Date: 2018-01-11 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "geomys pinetis" ; Times: 1
+	Query: "Dipodomys spectabilis" ; Times: 1
+	Query: "Rattus norvegicus" ; Times: 1
+	Query: "nyctalus leisleri" ; Times: 1
+	Query: "&#34;pipistrellus pipistrellus&#34;" ; Times: 1
+	Query: "specificepithet:princeps genus:Ochotona" ; Times: 1
+	Query: "Myotis volans mappable:1" ; Times: 1
+	Query: "Rattus rattus" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus haslength:1" ; Times: 1
+	Query: "genus:peromyscus stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "Myotis thysanodes mappable:1" ; Times: 1
+	Query: "Aplodontia rufa" ; Times: 1
+	Query: "Lepus californicus" ; Times: 1
+	Query: "Myocastor coypus" ; Times: 1
+	Query: "notiosorex" ; Times: 1
+	Query: "Procyon lotor" ; Times: 1
+	Query: "Eidolon helvum" ; Times: 1
+	Query: "order:Diprotodontia" ; Times: 1
+	Query: "petropedetes" ; Times: 1
+	Query: "specificepithet:soricina genus:glossophaga hastissue:1" ; Times: 1
+	Query: "Herpestes javanicus" ; Times: 1
+	Query: "genus:Napaeozapus" ; Times: 1
+	Query: "Sciurus niger rufiventer" ; Times: 1
+	Query: "Myotis sodalis" ; Times: 1
+	Query: "family:Cricetidae order:Rodentia county:&#34;Santa Cruz&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "genus:Odocoileus country:&#34;United States&#34;" ; Times: 1
+	Query: "genus:Tamias striatus year &gt;= 1961 year &lt;= 2017 hasmass:1" ; Times: 1
+	Query: "specificepithet:fuscus genus:Eptesicus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Mus musculus" ; Times: 1
+	Query: "nycticebus coucang continent:asia" ; Times: 1
+	Query: "Lasiurus cinereus mappable:1" ; Times: 1
+	Query: "order:Afrosoricida" ; Times: 1
+	Query: "nyctalus noctula" ; Times: 1
+	Query: "specificepithet:amplus genus:Perognathus stateprovince:&#34;Arizona&#34;" ; Times: 3
+	Query: "specificepithet:cinereicollis genus:Tamias" ; Times: 1
+	Query: "Lepus alleni" ; Times: 1
+	Query: "Vulpes macrotis" ; Times: 1
+	Query: "melanomys" ; Times: 1
+	Query: "specificepithet:canipes genus:Tamias" ; Times: 1
+	Query: "Myotis yumanensis mappable:1" ; Times: 1
+	Query: "genus:Dipodomys county:&#34;Pima&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Neurotrichus gibbsii" ; Times: 1
+	Query: "Coendou prehensilis" ; Times: 1
+	Query: "genus:Dipodomys county:&#34;Pinal&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Sciurus carolinensis" ; Times: 1
+	Query: "Myotis ciliolabrum mappable:1" ; Times: 1
+	Query: "order:Chiroptera country:&#34;United States&#34;" ; Times: 1
+	Query: "didelphis marsupialis" ; Times: 1
+	Query: "Chaetodipus penicillatus" ; Times: 1
+	Query: "Erethizon dorsatum" ; Times: 1
+	Query: "dipodomys deserti" ; Times: 1
+	Query: "Myotis leibii mappable:1" ; Times: 1
+	Query: "Reithrodontomys humulis" ; Times: 1
+	Query: "Pecari tajacu" ; Times: 1
+
+
+End of report.
