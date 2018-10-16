@@ -1,0 +1,95 @@
+Report for Institution Code WNMU, Resource wnmu_mamm
+Usage stats for May 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 46
+Number of records retrieved in searches: 54
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 43
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-28 ; Times: 1
+	Date: 2018-05-29 ; Times: 6
+	Date: 2018-05-20 ; Times: 1
+	Date: 2018-05-21 ; Times: 1
+	Date: 2018-05-22 ; Times: 1
+	Date: 2018-05-23 ; Times: 1
+	Date: 2018-05-24 ; Times: 1
+	Date: 2018-05-25 ; Times: 1
+	Date: 2018-05-26 ; Times: 1
+	Date: 2018-05-27 ; Times: 1
+	Date: 2018-05-06 ; Times: 1
+	Date: 2018-05-07 ; Times: 1
+	Date: 2018-05-04 ; Times: 4
+	Date: 2018-05-05 ; Times: 1
+	Date: 2018-05-02 ; Times: 1
+	Date: 2018-05-03 ; Times: 2
+	Date: 2018-05-01 ; Times: 2
+	Date: 2018-05-08 ; Times: 1
+	Date: 2018-05-09 ; Times: 1
+	Date: 2018-05-31 ; Times: 2
+	Date: 2018-05-30 ; Times: 2
+	Date: 2018-05-15 ; Times: 1
+	Date: 2018-05-14 ; Times: 2
+	Date: 2018-05-17 ; Times: 1
+	Date: 2018-05-11 ; Times: 1
+	Date: 2018-05-10 ; Times: 2
+	Date: 2018-05-13 ; Times: 2
+	Date: 2018-05-12 ; Times: 1
+	Date: 2018-05-19 ; Times: 1
+	Date: 2018-05-18 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "locality:clear creek county:&#34;coconino&#34;" ; Times: 1
+	Query: "specificepithet:hudsonius genus:zapus stateprovince:(minnesota OR new mexico)" ; Times: 36
+	Query: "Musonycteris harrisoni" ; Times: 1
+	Query: "275720" ; Times: 1
+	Query: "specificepithet:gossypinus genus:peromyscus year&gt;=1950 year&lt;=2018" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1960 year &lt;= 1969 institutioncode:WNMU" ; Times: 1
+	Query: "Euderma maculatum" ; Times: 2
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1970 year &lt;= 1979 institutioncode:WNMU" ; Times: 1
+	Query: "LJW 130" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1980 year &lt;= 1989 institutioncode:WNMU" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 12 (out of 1178 download events in this period)
+Total number of records downloaded: 413
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: United States ; Times: 6
+	Country: South Africa ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-06 ; Times: 2
+	Date: 2018-05-07 ; Times: 1
+	Date: 2018-05-17 ; Times: 1
+	Date: 2018-05-11 ; Times: 1
+	Date: 2018-05-18 ; Times: 1
+	Date: 2018-05-09 ; Times: 2
+	Date: 2018-05-28 ; Times: 1
+	Date: 2018-05-31 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:frenata genus:mustela haslength:1" ; Times: 1
+	Query: "Macropus robustus" ; Times: 1
+	Query: "Trichosurus vulpecula" ; Times: 1
+	Query: "genus:urocyon" ; Times: 1
+	Query: "chiroptera mexico" ; Times: 2
+	Query: "Procyon lotor" ; Times: 1
+	Query: "macropus rufus" ; Times: 1
+	Query: "Macropus fuliginosus" ; Times: 1
+	Query: "Jaculus jaculus" ; Times: 1
+	Query: "peromyscus maniculatus" ; Times: 1
+	Query: "specificepithet:dorsatum genus:Erethizon" ; Times: 1
+
+
+End of report.
