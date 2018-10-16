@@ -1,0 +1,141 @@
+Report for Institution Code WNMU, Resource wnmu_mamm
+Usage stats for April 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 97
+Number of records retrieved in searches: 135
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 96
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-29 ; Times: 2
+	Date: 2018-04-28 ; Times: 1
+	Date: 2018-04-23 ; Times: 18
+	Date: 2018-04-22 ; Times: 1
+	Date: 2018-04-21 ; Times: 3
+	Date: 2018-04-20 ; Times: 1
+	Date: 2018-04-27 ; Times: 1
+	Date: 2018-04-26 ; Times: 3
+	Date: 2018-04-25 ; Times: 4
+	Date: 2018-04-24 ; Times: 7
+	Date: 2018-04-01 ; Times: 4
+	Date: 2018-04-03 ; Times: 2
+	Date: 2018-04-02 ; Times: 3
+	Date: 2018-04-05 ; Times: 1
+	Date: 2018-04-04 ; Times: 1
+	Date: 2018-04-07 ; Times: 1
+	Date: 2018-04-06 ; Times: 1
+	Date: 2018-04-09 ; Times: 2
+	Date: 2018-04-08 ; Times: 1
+	Date: 2018-04-16 ; Times: 3
+	Date: 2018-04-12 ; Times: 3
+	Date: 2018-04-13 ; Times: 1
+	Date: 2018-04-10 ; Times: 1
+	Date: 2018-04-11 ; Times: 1
+	Date: 2018-04-30 ; Times: 1
+	Date: 2018-04-17 ; Times: 24
+	Date: 2018-04-14 ; Times: 1
+	Date: 2018-04-15 ; Times: 2
+	Date: 2018-04-18 ; Times: 1
+	Date: 2018-04-19 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Marmosa specificepithet:murina mappable:1 hasmass:1" ; Times: 1
+	Query: "genus:Onychomys specificepithet:leucogaster mappable:1 hasmass:1" ; Times: 1
+	Query: "specificepithet:hudsonius genus:zapus stateprovince:(minnesota OR new mexico)" ; Times: 53
+	Query: "Philander opossum hasmass:1" ; Times: 1
+	Query: "genus:Calomys specificepithet:callosus mappable:1 hasmass:1" ; Times: 1
+	Query: "genus:dipodomys catalognumber:1579" ; Times: 1
+	Query: "diaemus youngi specificepithet:youngi genus:diaemus" ; Times: 1
+	Query: "tadarida brasiliensis stateprovince:Arizona mappable:1" ; Times: 1
+	Query: "specificepithet:cinereus genus:lasiurus stateprovince:&#34;New Mexico&#34; month &gt;= 9 month &lt;= 12" ; Times: 1
+	Query: "specificepithet:noctivagans genus:lasionycteris continent:North America month &gt;= 1 month &lt;= 3" ; Times: 1
+	Query: "genus:Reithrodontomys specificepithet:montanus mappable:1 hasmass:1" ; Times: 1
+	Query: "genus:Akodon specificepithet:varius mappable:1 hasmass:1" ; Times: 1
+	Query: "Sylvilagus vntype:specimen (Bolivia)" ; Times: 1
+	Query: "genus:Sigmodon specificepithet:hispidus mappable:1 hasmass:1" ; Times: 2
+	Query: "genus:Ctenomys specificepithet:boliviensis mappable:1 hasmass:1" ; Times: 1
+	Query: "specificepithet:Lateralis genus:Spermophilus" ; Times: 2
+	Query: "sigmodon hispidus stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "Myotis auriculus mappable:1 hasmass:1" ; Times: 1
+	Query: "genus:Ctenomys specificepithet:steinbachi mappable:1" ; Times: 1
+	Query: "genus:Dasypus specificepithet:novemcinctus mappable:1" ; Times: 1
+	Query: "specificepithet:dolichurus genus:grammomys country:&#34;kenya&#34;" ; Times: 1
+	Query: "genus:Spermophilus specificepithet:variegatus mappable:1" ; Times: 2
+	Query: "specificepithet:Lateralis genus:spermophilus mappable:1" ; Times: 1
+	Query: "specificepithet:dolichurus genus:grammomys country:&#34;kenya&#34; institutioncode:WNMU" ; Times: 2
+	Query: "genus:Sylvilagus specificepithet:brasiliensis mappable:1" ; Times: 2
+	Query: "genus:Proechimys specificepithet:brevicauda mappable:1 hasmass:1" ; Times: 2
+	Query: "Euderma maculatum" ; Times: 1
+	Query: "specificepithet:etruscus genus:suncus continent:africa" ; Times: 1
+	Query: "genus:Peromyscus specificepithet:difficilis mappable:1 hasmass:1" ; Times: 1
+	Query: "genus:Ctenomys specificepithet:steinbachi mappable:1 hasmass:1" ; Times: 1
+	Query: "genus:Marmosa specificepithet:murina mappable:1" ; Times: 1
+	Query: "antelope pass New Mexico" ; Times: 1
+	Query: "genus:dipodomys catalognumber:2487" ; Times: 1
+	Query: "myotis occultus stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "genus:Akodon specificepithet:varius mappable:1" ; Times: 1
+	Query: "2487 Dipodomys" ; Times: 1
+	Query: "specificepithet:Lateralis genus:Spermophilus mappable:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 26 (out of 1359 download events in this period)
+Total number of records downloaded: 326
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Mexico ; Times: 3
+	Country: Poland ; Times: 3
+	Country: Finland ; Times: 2
+	Country: United States ; Times: 14
+	Country: Colombia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-12 ; Times: 2
+	Date: 2018-04-13 ; Times: 4
+	Date: 2018-04-03 ; Times: 2
+	Date: 2018-04-02 ; Times: 1
+	Date: 2018-04-05 ; Times: 3
+	Date: 2018-04-04 ; Times: 1
+	Date: 2018-04-17 ; Times: 1
+	Date: 2018-04-09 ; Times: 1
+	Date: 2018-04-18 ; Times: 1
+	Date: 2018-04-10 ; Times: 2
+	Date: 2018-04-16 ; Times: 3
+	Date: 2018-04-30 ; Times: 2
+	Date: 2018-04-25 ; Times: 2
+	Date: 2018-04-24 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:mus continent:North America" ; Times: 1
+	Query: "ctenomys" ; Times: 1
+	Query: "specificepithet:cinereus genus:lasiurus stateprovince:&#34;New Mexico&#34; month &gt;= 9 month &lt;= 12" ; Times: 1
+	Query: "class:Mammalia county:&#34;Harney&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "sciurus aberti" ; Times: 1
+	Query: "genus:Lasiurus" ; Times: 1
+	Query: "Platyrrhinus lineatus" ; Times: 3
+	Query: "genus:myotis family:vespertilionidae" ; Times: 1
+	Query: "order:Rodentia county:&#34;inyo&#34;" ; Times: 1
+	Query: "genus:ochotona" ; Times: 1
+	Query: "specificepithet:canadensis genus:Castor" ; Times: 2
+	Query: "specificepithet:cinereus genus:lasiurus stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "procyon lotor" ; Times: 1
+	Query: "genus:mus country:&#34;canada&#34;" ; Times: 1
+	Query: "Geomyidae hasmass:1" ; Times: 1
+	Query: "specificepithet:brasiliensis genus:tadarida country:&#34;Mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Muridae hasmass:1" ; Times: 1
+	Query: "specificepithet:etruscus genus:suncus continent:africa" ; Times: 1
+	Query: "specificepithet:lotor genus:Procyon country:&#34;United States&#34;" ; Times: 1
+	Query: "Dipodidae hasmass:1" ; Times: 1
+	Query: "Reithrodontomys mexicanus" ; Times: 1
+	Query: "specificepithet:cinereus genus:lasiurus stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "specificepithet:noctivagans genus:lasionycteris stateprovince:&#34;New Mexico&#34;" ; Times: 1
+
+
+End of report.
