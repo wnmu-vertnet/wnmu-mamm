@@ -1,0 +1,128 @@
+Report for Institution Code WNMU, Resource wnmu_mamm
+Usage stats for June 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 62
+Number of records retrieved in searches: 176
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 50
+	Country: Unknown ; Times: 2
+	Country: Netherlands ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Mexico ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-07 ; Times: 2
+	Date: 2018-06-06 ; Times: 4
+	Date: 2018-06-05 ; Times: 2
+	Date: 2018-06-04 ; Times: 2
+	Date: 2018-06-03 ; Times: 2
+	Date: 2018-06-02 ; Times: 1
+	Date: 2018-06-01 ; Times: 2
+	Date: 2018-06-25 ; Times: 2
+	Date: 2018-06-24 ; Times: 1
+	Date: 2018-06-27 ; Times: 1
+	Date: 2018-06-26 ; Times: 1
+	Date: 2018-06-21 ; Times: 1
+	Date: 2018-06-20 ; Times: 2
+	Date: 2018-06-23 ; Times: 1
+	Date: 2018-06-08 ; Times: 1
+	Date: 2018-06-09 ; Times: 1
+	Date: 2018-06-22 ; Times: 1
+	Date: 2018-06-10 ; Times: 1
+	Date: 2018-06-11 ; Times: 8
+	Date: 2018-06-12 ; Times: 2
+	Date: 2018-06-13 ; Times: 2
+	Date: 2018-06-14 ; Times: 1
+	Date: 2018-06-15 ; Times: 2
+	Date: 2018-06-16 ; Times: 5
+	Date: 2018-06-17 ; Times: 1
+	Date: 2018-06-18 ; Times: 1
+	Date: 2018-06-19 ; Times: 1
+	Date: 2018-06-30 ; Times: 3
+	Date: 2018-06-29 ; Times: 7
+	Date: 2018-06-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Eumops stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "specificepithet:merriami genus:dipodomys catalognumber:2974" ; Times: 1
+	Query: "Dendrohyrax arboreus" ; Times: 4
+	Query: "specificepithet:hudsonius genus:zapus stateprovince:(minnesota OR new mexico)" ; Times: 34
+	Query: "specificepithet:musculoides genus:mus country:&#34;kenya&#34; institutioncode:WNMU" ; Times: 2
+	Query: "specificepithet:musculoides genus:mus country:&#34;kenya&#34;" ; Times: 1
+	Query: "specificepithet:gambianus genus:heliosciurus" ; Times: 1
+	Query: "Musonycteris harrisoni" ; Times: 1
+	Query: "dasypus novemcinctus mexico" ; Times: 2
+	Query: "county:&#34;camden&#34; stateprovince:&#34;georgia&#34; year &gt;= 1902 year &lt;= 1902" ; Times: 1
+	Query: "locality:el morro" ; Times: 2
+	Query: "locality:EL MORRO stateprovince:&#34;NEW MEXICO&#34;" ; Times: 1
+	Query: "genus:heliosciurus institutioncode:WNMU" ; Times: 1
+	Query: "genus:mylomys country:&#34;kenya&#34;" ; Times: 1
+	Query: "institutioncode:WNMU" ; Times: 1
+	Query: "catalognumber:5788" ; Times: 1
+	Query: "genus:thallomys country:&#34;kenya&#34;" ; Times: 1
+	Query: "94944" ; Times: 2
+	Query: "specificepithet:rufobrachium genus:heliosciurus" ; Times: 2
+	Query: "specificepithet:plicata genus:balantiopteryx locality:tapanatepec stateprovince:&#34;oaxaca&#34;" ; Times: 1
+	Query: "catalognumber:6882" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 26 (out of 1169 download events in this period)
+Total number of records downloaded: 86
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 12
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Mexico ; Times: 11
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-06 ; Times: 2
+	Date: 2018-06-05 ; Times: 3
+	Date: 2018-06-07 ; Times: 1
+	Date: 2018-06-11 ; Times: 1
+	Date: 2018-06-12 ; Times: 1
+	Date: 2018-06-13 ; Times: 1
+	Date: 2018-06-29 ; Times: 2
+	Date: 2018-06-28 ; Times: 1
+	Date: 2018-06-01 ; Times: 5
+	Date: 2018-06-19 ; Times: 1
+	Date: 2018-06-25 ; Times: 1
+	Date: 2018-06-14 ; Times: 1
+	Date: 2018-06-18 ; Times: 2
+	Date: 2018-06-20 ; Times: 1
+	Date: 2018-06-09 ; Times: 1
+	Date: 2018-06-08 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Setonix brachyurus" ; Times: 1
+	Query: "Myotis vivesi" ; Times: 1
+	Query: "antilocapra" ; Times: 1
+	Query: "Cougar" ; Times: 1
+	Query: "Macropus fuliginosus" ; Times: 1
+	Query: "mammal Colima" ; Times: 1
+	Query: "Aplodontia rufa" ; Times: 2
+	Query: "cougar" ; Times: 2
+	Query: "Antilocapra americana" ; Times: 1
+	Query: "puma concolor mexico" ; Times: 1
+	Query: "Band-tailed Pigeon" ; Times: 1
+	Query: "Marmosa murina" ; Times: 1
+	Query: "locality:el morro" ; Times: 1
+	Query: "Canis latrans new mexico" ; Times: 1
+	Query: "ursus americanus" ; Times: 1
+	Query: "Myotis fortidens" ; Times: 1
+	Query: "order:CHIROPTERA stateprovince:&#34;Oaxaca&#34;" ; Times: 1
+	Query: "dasypus novemcinctus mexico" ; Times: 1
+	Query: "vntype:specimen specificepithet:concolor genus:puma" ; Times: 1
+	Query: "Nyctinomops" ; Times: 1
+	Query: "Rhogeessa parvula" ; Times: 3
+	Query: "Microtus" ; Times: 1
+
+
+End of report.
