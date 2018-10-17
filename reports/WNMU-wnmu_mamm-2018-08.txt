@@ -1,0 +1,117 @@
+Report for Institution Code WNMU, Resource wnmu_mamm
+Usage stats for August 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 74
+Number of records retrieved in searches: 180
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 73
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-08-30 ; Times: 1
+	Date: 2018-08-31 ; Times: 3
+	Date: 2018-08-18 ; Times: 1
+	Date: 2018-08-19 ; Times: 1
+	Date: 2018-08-16 ; Times: 3
+	Date: 2018-08-23 ; Times: 2
+	Date: 2018-08-14 ; Times: 2
+	Date: 2018-08-15 ; Times: 1
+	Date: 2018-08-12 ; Times: 1
+	Date: 2018-08-13 ; Times: 5
+	Date: 2018-08-10 ; Times: 2
+	Date: 2018-08-11 ; Times: 1
+	Date: 2018-08-02 ; Times: 2
+	Date: 2018-08-08 ; Times: 4
+	Date: 2018-08-03 ; Times: 1
+	Date: 2018-08-17 ; Times: 2
+	Date: 2018-08-27 ; Times: 2
+	Date: 2018-08-26 ; Times: 3
+	Date: 2018-08-25 ; Times: 13
+	Date: 2018-08-24 ; Times: 4
+	Date: 2018-08-09 ; Times: 1
+	Date: 2018-08-22 ; Times: 2
+	Date: 2018-08-21 ; Times: 1
+	Date: 2018-08-20 ; Times: 1
+	Date: 2018-08-05 ; Times: 1
+	Date: 2018-08-04 ; Times: 2
+	Date: 2018-08-07 ; Times: 4
+	Date: 2018-08-06 ; Times: 1
+	Date: 2018-08-01 ; Times: 4
+	Date: 2018-08-29 ; Times: 1
+	Date: 2018-08-28 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:ochrognathus genus:Sigmodon stateprovince:&#34;New Mexico&#34;" ; Times: 7
+	Query: "genus:lasiurus county:&#34;luna&#34; stateprovince:&#34;new mexico&#34;" ; Times: 1
+	Query: "specificepithet:hudsonius genus:zapus stateprovince:(minnesota OR new mexico)" ; Times: 49
+	Query: "specificepithet:ochrognathus genus:sigmodon stateprovince:&#34;new mexico&#34; (testes)" ; Times: 1
+	Query: "euderma" ; Times: 1
+	Query: "specificepithet:ochrognathus genus:Sigmodon stateprovince:&#34;New Mexico&#34; (testes)" ; Times: 1
+	Query: "specificepithet:ochrognathus genus:sigmodon stateprovince:&#34;new mexico&#34; institutioncode:WNMU" ; Times: 1
+	Query: "Coendou prehensilis" ; Times: 1
+	Query: "locality:el morro stateprovince:&#34;new mexico&#34;" ; Times: 1
+	Query: "specificepithet:ochrognathus genus:sigmodon stateprovince:&#34;new mexico&#34;" ; Times: 5
+	Query: "coendou prehensilis" ; Times: 1
+	Query: "catalognumber:1892 institutioncode:WNMU" ; Times: 1
+	Query: "LJW 130" ; Times: 2
+	Query: "specificepithet:ochrognathus genus:Sigmodon stateprovince:&#34;New Mexico&#34; ( embryos )" ; Times: 1
+	Query: "specificepithet:lotor genus:Procyon stateprovince:&#34;New Mexico&#34; preparations:skull" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 23 (out of 1416 download events in this period)
+Total number of records downloaded: 306
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 5
+	Country: Colombia ; Times: 4
+	Country: Mexico ; Times: 10
+	Country: United Kingdom ; Times: 1
+	Country: Chile ; Times: 1
+	Country: New Zealand ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-08-27 ; Times: 1
+	Date: 2018-08-11 ; Times: 1
+	Date: 2018-08-30 ; Times: 2
+	Date: 2018-08-31 ; Times: 1
+	Date: 2018-08-24 ; Times: 1
+	Date: 2018-08-09 ; Times: 4
+	Date: 2018-08-22 ; Times: 2
+	Date: 2018-08-05 ; Times: 1
+	Date: 2018-08-20 ; Times: 1
+	Date: 2018-08-16 ; Times: 1
+	Date: 2018-08-23 ; Times: 2
+	Date: 2018-08-06 ; Times: 1
+	Date: 2018-08-01 ; Times: 1
+	Date: 2018-08-13 ; Times: 1
+	Date: 2018-08-28 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Sigmodon fulviventer" ; Times: 1
+	Query: "puma concolor" ; Times: 4
+	Query: "Saimiri sciureus" ; Times: 1
+	Query: "order:Chiroptera country:&#34;Mexico&#34;" ; Times: 1
+	Query: "lasiurus cinereus" ; Times: 1
+	Query: "coendou prehensilis" ; Times: 1
+	Query: "order:Chiroptera stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "dipodomys agilis" ; Times: 1
+	Query: "oaxaca" ; Times: 1
+	Query: "Plecotus auritus" ; Times: 1
+	Query: "ursus arctos" ; Times: 1
+	Query: "Lasiurus blossevillii" ; Times: 1
+	Query: "lasiurus ega" ; Times: 1
+	Query: "lynx rufus" ; Times: 1
+	Query: "&#34;myotis lucifugus&#34; hassex:1 hasmass:1" ; Times: 2
+	Query: "myotis auriculus" ; Times: 1
+	Query: "Puma concolor" ; Times: 1
+	Query: "specificepithet:minimus genus:Tamias stateprovince:&#34;Wyoming&#34;" ; Times: 1
+	Query: "saimiri sciureus" ; Times: 1
+
+
+End of report.
