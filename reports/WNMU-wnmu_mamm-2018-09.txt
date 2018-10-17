@@ -1,0 +1,111 @@
+Report for Institution Code WNMU, Resource wnmu_mamm
+Usage stats for September 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 58
+Number of records retrieved in searches: 79
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 50
+	Country: Brazil ; Times: 3
+	Country: Czechia ; Times: 2
+	Country: Canada ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-04 ; Times: 4
+	Date: 2018-09-23 ; Times: 2
+	Date: 2018-09-02 ; Times: 1
+	Date: 2018-09-03 ; Times: 3
+	Date: 2018-09-26 ; Times: 1
+	Date: 2018-09-01 ; Times: 1
+	Date: 2018-09-20 ; Times: 4
+	Date: 2018-09-21 ; Times: 2
+	Date: 2018-09-22 ; Times: 1
+	Date: 2018-09-05 ; Times: 1
+	Date: 2018-09-08 ; Times: 1
+	Date: 2018-09-09 ; Times: 1
+	Date: 2018-09-28 ; Times: 2
+	Date: 2018-09-29 ; Times: 1
+	Date: 2018-09-30 ; Times: 9
+	Date: 2018-09-11 ; Times: 2
+	Date: 2018-09-10 ; Times: 1
+	Date: 2018-09-13 ; Times: 1
+	Date: 2018-09-12 ; Times: 1
+	Date: 2018-09-15 ; Times: 3
+	Date: 2018-09-14 ; Times: 2
+	Date: 2018-09-17 ; Times: 1
+	Date: 2018-09-16 ; Times: 1
+	Date: 2018-09-19 ; Times: 1
+	Date: 2018-09-18 ; Times: 1
+	Date: 2018-09-24 ; Times: 3
+	Date: 2018-09-25 ; Times: 3
+	Date: 2018-09-27 ; Times: 1
+	Date: 2018-09-06 ; Times: 1
+	Date: 2018-09-07 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen locality:Carlsbad Caverns county:&#34;Eddy County&#34; stateprovince:&#34;New Mexico&#34; country:&#34;United States&#34; continent:North America" ; Times: 1
+	Query: "Saimiri sciureus" ; Times: 3
+	Query: "specificepithet:maculatum genus:euderma" ; Times: 8
+	Query: "specificepithet:hudsonius genus:zapus stateprovince:(minnesota OR new mexico)" ; Times: 32
+	Query: "specificepithet:leucogaster genus:Onychomys county:&#34;Eddy&#34;" ; Times: 1
+	Query: "genus:sigmodon county:&#34;Cochise&#34;" ; Times: 1
+	Query: "coendou prehensilis" ; Times: 1
+	Query: "specificepithet:surdaster genus:Pedetes" ; Times: 2
+	Query: "peromyscus hollywood" ; Times: 1
+	Query: "specificepithet:arenarius genus:geomys" ; Times: 2
+	Query: "catalognumber:1218 &#34;vulpes vulpes&#34;" ; Times: 1
+	Query: "catalognumber:2160 &#34;peromyscus maniculatus&#34;" ; Times: 1
+	Query: "Taphozous nudiventris" ; Times: 2
+	Query: "Artibeus concolor" ; Times: 1
+	Query: "catalognumber:5477 &#34;marmota monax&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 22 (out of 846 download events in this period)
+Total number of records downloaded: 203
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 13
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-10 ; Times: 4
+	Date: 2018-09-30 ; Times: 1
+	Date: 2018-09-13 ; Times: 1
+	Date: 2018-09-24 ; Times: 1
+	Date: 2018-09-25 ; Times: 1
+	Date: 2018-09-26 ; Times: 2
+	Date: 2018-09-15 ; Times: 3
+	Date: 2018-09-21 ; Times: 1
+	Date: 2018-09-04 ; Times: 2
+	Date: 2018-09-19 ; Times: 1
+	Date: 2018-09-18 ; Times: 4
+	Date: 2018-09-08 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "class:mammalia county:&#34;clark&#34; stateprovince:&#34;nevada&#34;" ; Times: 1
+	Query: "carlsbad caverns" ; Times: 1
+	Query: "aplodontia rufa" ; Times: 1
+	Query: "didelphis virginiana" ; Times: 1
+	Query: "family:Felidae lengthtype:total length haslength:1" ; Times: 1
+	Query: "microtus" ; Times: 1
+	Query: "notiosorex" ; Times: 3
+	Query: "specificepithet:trowbridgii genus:sorex" ; Times: 1
+	Query: "specificepithet:arenarius genus:geomys" ; Times: 2
+	Query: "vntype:specimen genus:Coendou" ; Times: 1
+	Query: "specificepithet:goldmani genus:Chaetodipus" ; Times: 1
+	Query: "didelphis marsupialis" ; Times: 2
+	Query: "specificepithet:maculatum genus:euderma" ; Times: 1
+	Query: "perognathus longimembris" ; Times: 1
+	Query: "class:Mammalia (baculum)" ; Times: 1
+	Query: "genus:Peromyscus stateprovince:&#34;Michigan&#34;" ; Times: 1
+	Query: "micronycteris minuta" ; Times: 1
+	Query: "vntype:specimen genus:vulpes year &gt;= 2000 basisofrecord:PreservedSpecimen" ; Times: 1
+
+
+End of report.
