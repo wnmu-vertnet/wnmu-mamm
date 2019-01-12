@@ -1,0 +1,157 @@
+Report for Institution Code WNMU, Resource wnmu_mamm
+Usage stats for December 2018, generated on 2019/01/12
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 66
+Number of records retrieved in searches: 416
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 46
+	Country: Unknown ; Times: 16
+	Country: Mexico ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-12-05 ; Times: 4
+	Date: 2018-12-08 ; Times: 2
+	Date: 2018-12-02 ; Times: 2
+	Date: 2018-12-03 ; Times: 7
+	Date: 2018-12-21 ; Times: 1
+	Date: 2018-12-13 ; Times: 2
+	Date: 2018-12-26 ; Times: 2
+	Date: 2018-12-09 ; Times: 3
+	Date: 2018-12-06 ; Times: 2
+	Date: 2018-12-14 ; Times: 17
+	Date: 2018-12-04 ; Times: 5
+	Date: 2018-12-16 ; Times: 3
+	Date: 2018-12-11 ; Times: 2
+	Date: 2018-12-10 ; Times: 2
+	Date: 2018-12-07 ; Times: 2
+	Date: 2018-12-12 ; Times: 10
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:albigula genus:Neotoma locality:Glenwood county:&#34;catron&#34; stateprovince:&#34;new mexico&#34;" ; Times: 1
+	Query: "specificepithet:hudsonius genus:zapus stateprovince:(minnesota OR new mexico)" ; Times: 22
+	Query: "specificepithet:megalotis genus:Reithrodontomys locality:Mule Creek stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "specificepithet:ordii genus:Dipodomys locality:buckhorn stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "order:Rodentia locality:Rio Changena country:&#34;Panama&#34;" ; Times: 1
+	Query: "specificepithet:ega genus:lasiurus stateprovince:&#34;new mexico&#34;" ; Times: 1
+	Query: "specificepithet:boylii genus:Peromyscus locality:glenwood stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "specificepithet:megalotis genus:Reithrodontomys locality:Cliff stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "specificepithet:blossevillii genus:lasiurus stateprovince:&#34;new mexico&#34;" ; Times: 1
+	Query: "specificepithet:albigula genus:Neotoma locality:Mule Creek stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "cienega creek" ; Times: 4
+	Query: "specificepithet:maniculatus genus:peromyscus locality:gila county:&#34;grant&#34; stateprovince:&#34;new mexico&#34;" ; Times: 1
+	Query: "genus:dipodomys county:&#34;san benito&#34; year &gt;= 1980 year &lt;= 2000" ; Times: 1
+	Query: "specificepithet:truei genus:Peromyscus locality:Mule Creek stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "specificepithet:ordii genus:Dipodomys locality:cliff stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "specificepithet:albigula genus:Neotoma locality:Glenwood stateprovince:&#34;New Mexico&#34;" ; Times: 4
+	Query: "order:erinaceomorpha class:mammalia country:&#34;kenya&#34;" ; Times: 1
+	Query: "specificepithet:truei genus:Peromyscus locality:cliff stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "specificepithet:hispidus genus:Sigmodon locality:Rodeo stateprovince:&#34;new mexico&#34;" ; Times: 1
+	Query: "specificepithet:albigula genus:Neotoma locality:Buckhorn stateprovince:&#34;New Mexico&#34;" ; Times: 2
+	Query: "specificepithet:boylii genus:Peromyscus locality:san francisco river stateprovince:&#34;New Mexico&#34;" ; Times: 3
+	Query: "specificepithet:albigula genus:Neotoma locality:Cliff stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "specificepithet:albigula genus:Neotoma locality:gila stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus locality:cliff stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "class:mammalia country:&#34;kenya&#34; institutioncode:WNMU" ; Times: 1
+	Query: "specificepithet:megalotis genus:Reithrodontomys locality:Gila stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "specificepithet:boylii genus:Peromyscus locality:Mule Creek stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "specificepithet:albigula genus:Neotoma county:&#34;catron&#34; stateprovince:&#34;new mexico&#34;" ; Times: 1
+	Query: "specificepithet:maniculatus genus:peromyscus locality:gila stateprovince:&#34;new mexico&#34;" ; Times: 1
+	Query: "specificepithet:maniculatus genus:peromyscus locality:Gila" ; Times: 3
+	Query: "specificepithet:maniculatus genus:Peromyscus locality:mule creek stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "specificepithet:merriami genus:Sorex hasmass:1" ; Times: 1
+	Query: "32115" ; Times: 1
+	Query: "specificepithet:boylii genus:Peromyscus locality:Cliff stateprovince:&#34;New Mexico&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 62 (out of 809 download events in this period)
+Total number of records downloaded: 1309
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Mexico ; Times: 38
+	Country: India ; Times: 3
+	Country: France ; Times: 1
+	Country: United States ; Times: 14
+	Country: Russia ; Times: 1
+	Country: Ecuador ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-12-05 ; Times: 1
+	Date: 2018-12-08 ; Times: 1
+	Date: 2018-12-09 ; Times: 20
+	Date: 2018-12-10 ; Times: 15
+	Date: 2018-12-20 ; Times: 1
+	Date: 2018-12-21 ; Times: 2
+	Date: 2018-12-22 ; Times: 4
+	Date: 2018-12-18 ; Times: 2
+	Date: 2018-12-26 ; Times: 1
+	Date: 2018-12-30 ; Times: 1
+	Date: 2018-12-15 ; Times: 1
+	Date: 2018-12-07 ; Times: 4
+	Date: 2018-12-17 ; Times: 1
+	Date: 2018-12-16 ; Times: 1
+	Date: 2018-12-11 ; Times: 5
+	Date: 2018-12-04 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "cyclopes didactylus" ; Times: 1
+	Query: "Eptesicus fuscus" ; Times: 1
+	Query: "Molossus molossus" ; Times: 1
+	Query: "Lasiurus ega" ; Times: 1
+	Query: "uroderma bilobatum" ; Times: 1
+	Query: "Peromyscus nasutus mexico" ; Times: 1
+	Query: "noctilio leporinus" ; Times: 1
+	Query: "genus:dipodomys county:&#34;san benito&#34;" ; Times: 1
+	Query: "urocyon cinereoargenteus" ; Times: 1
+	Query: "gray bat" ; Times: 1
+	Query: "Dasypus novemcinctus" ; Times: 1
+	Query: "Puma concolor" ; Times: 1
+	Query: "Glossophaga soricina" ; Times: 4
+	Query: "sigmodon hispidus" ; Times: 1
+	Query: "peromyscus leucopus" ; Times: 1
+	Query: "specificepithet:maniculatus genus:peromyscus locality:gila county:&#34;grant&#34; stateprovince:&#34;new mexico&#34;" ; Times: 1
+	Query: "pteronotus davyi" ; Times: 1
+	Query: "Procyon lotor" ; Times: 1
+	Query: "pteronotus parnellii" ; Times: 1
+	Query: "natalus mexicanus" ; Times: 1
+	Query: "pecari tajacu" ; Times: 1
+	Query: "genus:ochotona" ; Times: 1
+	Query: "Mustela frenata" ; Times: 1
+	Query: "puma concolor" ; Times: 2
+	Query: "saccopteryx bilineata" ; Times: 1
+	Query: "Chaetodipus formosus" ; Times: 1
+	Query: "Didelphis virginiana" ; Times: 1
+	Query: "Macrotus waterhousii" ; Times: 1
+	Query: "Chaetodipus intermedius" ; Times: 2
+	Query: "locality:malheur stateprovince:&#34;oregon&#34;" ; Times: 1
+	Query: "Lasiurus intermedius" ; Times: 1
+	Query: "oligoryzomys fulvescens" ; Times: 1
+	Query: "Dipodomys ordii" ; Times: 2
+	Query: "carollia perspicillata" ; Times: 1
+	Query: "Didelphis marsupialis" ; Times: 1
+	Query: "specificepithet:townsendii genus:lepus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "lynx rufus" ; Times: 1
+	Query: "desmodus rotundus" ; Times: 1
+	Query: "Alouatta seniculus seniculus" ; Times: 1
+	Query: "eumops glaucinus" ; Times: 1
+	Query: "sturnira lilium" ; Times: 1
+	Query: "philander opossum" ; Times: 1
+	Query: "lynx lynx" ; Times: 1
+	Query: "Artibeus phaeotis" ; Times: 1
+	Query: "sylvilagus floridanus" ; Times: 1
+	Query: "Noctilio leporinus" ; Times: 1
+	Query: "specificepithet:maniculatus genus:peromyscus locality:Gila" ; Times: 1
+	Query: "procyon lotor" ; Times: 1
+	Query: "Lasiurus blossevillii" ; Times: 1
+	Query: "Myotis nigricans" ; Times: 1
+	Query: "nasua narica" ; Times: 1
+	Query: "canis latrans" ; Times: 3
+	Query: "Chaetodipus hispidus" ; Times: 2
+
+
+End of report.
