@@ -1,0 +1,159 @@
+Report for Institution Code WNMU, Resource wnmu_mamm
+Usage stats for January 2019, generated on 2019/02/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 71
+Number of records retrieved in searches: 244
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 65
+	Country: Canada ; Times: 1
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-29 ; Times: 24
+	Date: 2019-01-28 ; Times: 4
+	Date: 2019-01-31 ; Times: 5
+	Date: 2019-01-18 ; Times: 3
+	Date: 2019-01-06 ; Times: 1
+	Date: 2019-01-05 ; Times: 1
+	Date: 2019-01-04 ; Times: 1
+	Date: 2019-01-14 ; Times: 2
+	Date: 2019-01-15 ; Times: 1
+	Date: 2019-01-16 ; Times: 1
+	Date: 2019-01-17 ; Times: 1
+	Date: 2019-01-10 ; Times: 1
+	Date: 2019-01-11 ; Times: 3
+	Date: 2019-01-12 ; Times: 1
+	Date: 2019-01-26 ; Times: 3
+	Date: 2019-01-24 ; Times: 7
+	Date: 2019-01-25 ; Times: 3
+	Date: 2019-01-13 ; Times: 2
+	Date: 2019-01-23 ; Times: 5
+	Date: 2019-01-19 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:cinereicollis genus:tamias institutioncode:WNMU" ; Times: 1
+	Query: "specificepithet:amoenus genus:tamias institutioncode:WNMU" ; Times: 1
+	Query: "specificepithet:Musculus genus:Mus continent:North America hasmass:1 haslength:1" ; Times: 2
+	Query: "specificepithet:vison genus:mustela continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 3
+	Query: "stateprovince:&#34;Indiana&#34; specificepithet:erminea genus:mustela year &gt;= 1890 year &lt;= 2019" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 2
+	Query: "specificepithet:Musculus genus:Mus stateprovince:&#34;Minnesota&#34; hasmass:1 haslength:1" ; Times: 1
+	Query: "specificepithet:lateralis genus:Spermophilus stateprovince:&#34;Colorado&#34; year &gt;= 1980 year &lt;= 2018" ; Times: 1
+	Query: "specificepithet:musculus genus:Mus continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 3
+	Query: "specificepithet:rufus genus:Lynx continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 8
+	Query: "specificepithet:merriami genus:sorex stateprovince:&#34;new mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "order:Chiroptera county:&#34;Greene&#34; stateprovince:&#34;Indiana&#34;" ; Times: 1
+	Query: "family:leporidae stateprovince:&#34;louisiana&#34;" ; Times: 1
+	Query: "specificepithet:leucopus genus:Peromyscus stateprovince:&#34;North Dakota&#34; continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "specificepithet:siskiyou genus:tamias institutioncode:WNMU" ; Times: 1
+	Query: "Sylvilagus brasiliensis mappable:1" ; Times: 1
+	Query: "specificepithet:vison genus:Mustela continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "specificepithet:townsendii genus:tamias institutioncode:WNMU" ; Times: 2
+	Query: "specificepithet:arizonensis genus:sciurus stateprovince:&#34;new mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:floridanus genus:Sylvilagus continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "microtus chrotorrhinus new york" ; Times: 2
+	Query: "specificepithet:blossevillii genus:Lasiurus stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "Leptonycteris nivalis" ; Times: 2
+	Query: "specificepithet:canipes genus:tamias" ; Times: 2
+	Query: "specificepithet:musculus genus:Mus stateprovince:&#34;Texas&#34; continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "&#34;Myotis lucifugus&#34; iowa" ; Times: 1
+	Query: "specificepithet:rufus genus:Lynx hasmass:1 haslength:1" ; Times: 2
+	Query: "specificepithet:flaviventris genus:marmota stateprovince:&#34;new mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 5
+	Query: "specificepithet:leucopus genus:Peromyscus country:&#34;Canada&#34; continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "specificepithet:leucopus genus:Peromyscus stateprovince:&#34;Minnesota&#34; year &gt;= 1980 year &lt;= 2019" ; Times: 1
+	Query: "specificepithet:montanus genus:reithrodontomys stateprovince:&#34;new mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:boylii genus:Peromyscus locality:Glenwood county:&#34;Catron&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "specificepithet:leucopus genus:peromyscus stateprovince:&#34;California&#34; continent:North America lengthtype:total length hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "specificepithet:striatus genus:Tamias continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "specificepithet:fulvescens genus:reithrodontomys stateprovince:&#34;new mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:quadrivittatus genus:tamias institutioncode:WNMU" ; Times: 1
+	Query: "specificepithet:californicus genus:lepus stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "specificepithet:minimus genus:tamias institutioncode:WNMU" ; Times: 1
+	Query: "specificepithet:striatus genus:tamias institutioncode:WNMU" ; Times: 1
+	Query: "specificepithet:dorsalis genus:tamias institutioncode:WNMU" ; Times: 1
+	Query: "specificepithet:pennsylvanicus genus:Microtus stateprovince:&#34;new hampshire&#34; country:&#34;United States&#34; continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "specificepithet:canipes genus:tamias institutioncode:WNMU" ; Times: 2
+	Query: "notiosorex hidalgo" ; Times: 4
+	Query: "specificepithet:striatus genus:tamias continent:north america hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "specificepithet:truei genus:Peromyscus locality:pleasanton county:&#34;catron&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 48 (out of 962 download events in this period)
+Total number of records downloaded: 529
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 3
+	Country: Indonesia ; Times: 1
+	Country: United States ; Times: 36
+	Country: Spain ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-03 ; Times: 2
+	Date: 2019-01-02 ; Times: 3
+	Date: 2019-01-08 ; Times: 1
+	Date: 2019-01-07 ; Times: 3
+	Date: 2019-01-06 ; Times: 1
+	Date: 2019-01-04 ; Times: 1
+	Date: 2019-01-15 ; Times: 1
+	Date: 2019-01-16 ; Times: 3
+	Date: 2019-01-17 ; Times: 1
+	Date: 2019-01-11 ; Times: 5
+	Date: 2019-01-22 ; Times: 2
+	Date: 2019-01-29 ; Times: 13
+	Date: 2019-01-18 ; Times: 1
+	Date: 2019-01-31 ; Times: 3
+	Date: 2019-01-30 ; Times: 2
+	Date: 2019-01-28 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:californicus genus:lepus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "marmosa" ; Times: 1
+	Query: "specificepithet:Musculus genus:Mus continent:North America hasmass:1 haslength:1" ; Times: 1
+	Query: "stateprovince:&#34;Indiana&#34; specificepithet:erminea genus:mustela year &gt;= 1890 year &lt;= 2019" ; Times: 1
+	Query: "Myotis californicus year &gt;= 1948 year &lt;= 2019" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 4
+	Query: "specificepithet:vison genus:mustela continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 3
+	Query: "Puma concolor" ; Times: 1
+	Query: "specificepithet:merriami genus:sorex stateprovince:&#34;new mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Minnesota&#34;" ; Times: 1
+	Query: "Ochotona princeps" ; Times: 1
+	Query: "class:Mammalia county:&#34;cameron&#34; stateprovince:&#34;louisiana&#34;" ; Times: 1
+	Query: "bradypus" ; Times: 1
+	Query: "pecari tajacu" ; Times: 1
+	Query: "specificepithet:vison genus:Mustela continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 3
+	Query: "Eumops glaucinus" ; Times: 1
+	Query: "specificepithet:floridanus genus:Sylvilagus continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "specificepithet:lateralis genus:spermophilus stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "Neotoma mexicana" ; Times: 1
+	Query: "Philander opossum" ; Times: 1
+	Query: "vntype:specimen genus:Choeronycteris family:Phyllostomidae order:Chiroptera class:Mammalia basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Manidae" ; Times: 1
+	Query: "peromyscus californicus" ; Times: 1
+	Query: "Marmosa murina" ; Times: 1
+	Query: "dasypus novemcinctus" ; Times: 1
+	Query: "specificepithet:flaviventris genus:marmota stateprovince:&#34;new mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "genus:Herpestes stateprovince:&#34;Hawaii&#34;" ; Times: 1
+	Query: "Plecotus townsendii year &gt;= 1948 year &lt;= 2019" ; Times: 1
+	Query: "Myocastor coypus" ; Times: 1
+	Query: "specificepithet:striatus genus:Tamias continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 3
+	Query: "genus:Dipodomys stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "class:Mammalia county:&#34;harris&#34; stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "class:Mammalia county:&#34;calcasieu&#34; stateprovince:&#34;louisiana&#34;" ; Times: 1
+	Query: "genus:herpestes order:carnivora stateprovince:&#34;hawaii&#34;" ; Times: 1
+	Query: "class:Mammalia county:&#34;nacogdoches&#34; stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "Minnesota Blarina" ; Times: 2
+	Query: "specificepithet:Striatus genus:Tamias continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 1
+
+
+End of report.
