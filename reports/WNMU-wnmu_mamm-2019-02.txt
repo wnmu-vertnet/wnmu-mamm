@@ -1,0 +1,101 @@
+Report for Institution Code WNMU, Resource wnmu_mamm
+Usage stats for February 2019, generated on 2019/03/18
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 44
+Number of records retrieved in searches: 223
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 43
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-27 ; Times: 9
+	Date: 2019-02-04 ; Times: 2
+	Date: 2019-02-13 ; Times: 12
+	Date: 2019-02-25 ; Times: 2
+	Date: 2019-02-26 ; Times: 5
+	Date: 2019-02-12 ; Times: 1
+	Date: 2019-02-20 ; Times: 3
+	Date: 2019-02-21 ; Times: 3
+	Date: 2019-02-22 ; Times: 1
+	Date: 2019-02-05 ; Times: 4
+	Date: 2019-02-06 ; Times: 1
+	Date: 2019-02-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:macroura genus:Mephitis stateprovince:&#34;new mexico&#34;" ; Times: 2
+	Query: "specificepithet:hispidus genus:Sigmodon county:&#34;Valencia&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "myotis ciliolabrum stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "32115" ; Times: 1
+	Query: "specificepithet:fulvescens genus:Reithrodontomys stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "specificepithet:difficilis genus:Peromyscus stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "specificepithet:borealis genus:lasiurus stateprovince:&#34;New mexico&#34;" ; Times: 1
+	Query: "specificepithet:hispidus genus:Sigmodon county:&#34;Torrance&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "Ochotona princeps" ; Times: 13
+	Query: "specificepithet:frenata genus:Mustela institutioncode:WNMU" ; Times: 1
+	Query: "genus:Euderma stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "genus:Choeronycteris stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "specificepithet:arenarius genus:Geomys stateprovince:&#34;New Mexico&#34;" ; Times: 2
+	Query: "Pinnacles locality:Pinnacles stateprovince:&#34;California&#34; institutioncode:WNMU" ; Times: 1
+	Query: "specificepithet:borealis genus:Lasiurus stateprovince:&#34;new mexico&#34;" ; Times: 1
+	Query: "genus:Eptesicus stateprovince:&#34;tamaulipas&#34;" ; Times: 1
+	Query: "specificepithet:hispidus genus:Sigmodon county:&#34;Catron&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "LJW 130" ; Times: 2
+	Query: "specificepithet:noctivagans genus:Lasionycteris family:Vespertilionidae order:Chiroptera stateprovince:&#34;New Mexico&#34; year &gt;= 1800 year &lt;= 2019 institutioncode:WNMU basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:phyllotis genus:Idionycteris stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "specificepithet:astutus genus:bassariscus stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "specificepithet:borealis genus:Lasiurus stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "specificepithet:montanus genus:Reithrodontomys stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "specificepithet:auriculus genus:Myotis stateprovince:&#34;new mexico&#34;" ; Times: 1
+	Query: "euderma" ; Times: 1
+	Query: "specificepithet:ochrognathus genus:Sigmodon stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "specificepithet:fulviventer genus:Sigmodon stateprovince:&#34;New Mexico&#34;" ; Times: 2
+	Query: "euderma maculatum" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 24 (out of 1227 download events in this period)
+Total number of records downloaded: 206
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 14
+	Country: Brazil ; Times: 3
+	Country: Germany ; Times: 1
+	Country: Mexico ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-05 ; Times: 5
+	Date: 2019-02-25 ; Times: 3
+	Date: 2019-02-26 ; Times: 1
+	Date: 2019-02-27 ; Times: 1
+	Date: 2019-02-06 ; Times: 1
+	Date: 2019-02-14 ; Times: 3
+	Date: 2019-02-23 ; Times: 1
+	Date: 2019-02-19 ; Times: 2
+	Date: 2019-02-18 ; Times: 2
+	Date: 2019-02-08 ; Times: 3
+	Date: 2019-02-21 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:borealis genus:Lasiurus stateprovince:&#34;New Mexico&#34;" ; Times: 5
+	Query: "Atelerix albiventris" ; Times: 2
+	Query: "Otocyon megalotis" ; Times: 1
+	Query: "specificepithet:californicus genus:Lepus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Vulpes velox" ; Times: 1
+	Query: "Dasypus" ; Times: 1
+	Query: "neotoma stephensi" ; Times: 4
+	Query: "specificepithet:frenata genus:Mustela institutioncode:WNMU" ; Times: 1
+	Query: "specificepithet:youngi genus:Diaemus" ; Times: 1
+	Query: "Vulpes macrotis" ; Times: 1
+	Query: "genus:Thomomys county:&#34;Siskiyou&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:sylvaticus genus:Apodemus" ; Times: 1
+	Query: "Lepus alleni" ; Times: 2
+	Query: "Puma concolor" ; Times: 1
+	Query: "Spilogale putorius" ; Times: 1
+
+
+End of report.
