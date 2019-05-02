@@ -1,0 +1,95 @@
+Report for Institution Code WNMU, Resource wnmu_mamm
+Usage stats for March 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 23
+Number of records retrieved in searches: 69
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 21
+	Country: United Kingdom ; Times: 1
+	Country: Brazil ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-03-30 ; Times: 5
+	Date: 2019-03-26 ; Times: 1
+	Date: 2019-03-23 ; Times: 1
+	Date: 2019-03-08 ; Times: 1
+	Date: 2019-03-20 ; Times: 2
+	Date: 2019-03-04 ; Times: 4
+	Date: 2019-03-14 ; Times: 1
+	Date: 2019-03-06 ; Times: 3
+	Date: 2019-03-29 ; Times: 1
+	Date: 2019-03-28 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:volans genus:Myotis county:&#34;Grant&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "specificepithet:evotis genus:Myotis county:&#34;Hidalgo&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "2 mi W Condon" ; Times: 1
+	Query: "specificepithet:gunnisoni genus:cynomys county:&#34;grant&#34; stateprovince:&#34;new mexico&#34;" ; Times: 1
+	Query: "Vulpes macrotis hasmass:1" ; Times: 2
+	Query: "specificepithet:albigula genus:Neotoma county:&#34;catron&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "Musonycteris harrisoni" ; Times: 1
+	Query: "specificepithet:truei genus:Peromyscus locality:pleasanton stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "Lontra canadensis hasmass:1" ; Times: 1
+	Query: "specificepithet:thysanodes genus:Myotis county:&#34;eddy&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "specificepithet:truei genus:Peromyscus locality:Pleasanton stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "Sylvilagus brasiliensis mappable:1" ; Times: 1
+	Query: "specificepithet:boylii genus:Peromyscus locality:Glenwood stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "specificepithet:volans genus:Myotis county:&#34;Hidalgo&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus locality:Glenwood stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "specificepithet:brasiliensis genus:Tadarida county:&#34;Grant&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "specificepithet:novemcinctus genus:Dasypus" ; Times: 2
+	Query: "specificepithet:fulvescens genus:reithrodontomys stateprovince:&#34;new mexico&#34;" ; Times: 1
+	Query: "specificepithet:albigula genus:Neotoma locality:Glenwood stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "Reithrodontomys fulvescens" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 23 (out of 1281 download events in this period)
+Total number of records downloaded: 81
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 17
+	Country: United Kingdom ; Times: 3
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-03-22 ; Times: 2
+	Date: 2019-03-13 ; Times: 1
+	Date: 2019-03-26 ; Times: 1
+	Date: 2019-03-23 ; Times: 2
+	Date: 2019-03-08 ; Times: 6
+	Date: 2019-03-18 ; Times: 1
+	Date: 2019-03-20 ; Times: 3
+	Date: 2019-03-04 ; Times: 1
+	Date: 2019-03-14 ; Times: 2
+	Date: 2019-03-06 ; Times: 1
+	Date: 2019-03-07 ; Times: 1
+	Date: 2019-03-03 ; Times: 1
+	Date: 2019-03-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "order:Primates haslength:1" ; Times: 1
+	Query: "specificepithet:novemcinctus genus:Dasypus" ; Times: 1
+	Query: "Carollia subrufa" ; Times: 1
+	Query: "specificepithet:canadensis genus:lontra" ; Times: 3
+	Query: "Musonycteris harrisoni" ; Times: 1
+	Query: "specificepithet:taxus genus:taxidea" ; Times: 1
+	Query: "vntype:specimen specificepithet:taylori genus:Baiomys stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Lasiurus ega" ; Times: 1
+	Query: "specificepithet:hudsonicus genus:Tamiasciurus hasmass:1" ; Times: 2
+	Query: "specificepithet:fulvescens genus:Reithrodontomys" ; Times: 1
+	Query: "jaculus" ; Times: 1
+	Query: "Centurio senex" ; Times: 1
+	Query: "specificepithet:micropus genus:Neotoma" ; Times: 1
+	Query: "specificepithet:erminea genus:mustela" ; Times: 5
+	Query: "puma concolor" ; Times: 1
+	Query: "Choeroniscus godmani" ; Times: 1
+
+
+End of report.
