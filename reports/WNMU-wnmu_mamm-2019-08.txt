@@ -1,0 +1,241 @@
+Report for Institution Code WNMU, Resource wnmu_mamm
+Usage stats for August 2019, generated on 2019/09/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 175
+Number of records retrieved in searches: 495
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 27
+	Country: United Kingdom ; Times: 13
+	Country: Mexico ; Times: 5
+	Country: Brazil ; Times: 7
+	Country: Thailand ; Times: 123
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-08-06 ; Times: 1
+	Date: 2019-08-08 ; Times: 1
+	Date: 2019-08-01 ; Times: 2
+	Date: 2019-08-19 ; Times: 2
+	Date: 2019-08-23 ; Times: 1
+	Date: 2019-08-16 ; Times: 1
+	Date: 2019-08-15 ; Times: 3
+	Date: 2019-08-13 ; Times: 4
+	Date: 2019-08-05 ; Times: 13
+	Date: 2019-08-28 ; Times: 2
+	Date: 2019-08-07 ; Times: 1
+	Date: 2019-08-26 ; Times: 3
+	Date: 2019-08-09 ; Times: 1
+	Date: 2019-08-24 ; Times: 4
+	Date: 2019-08-22 ; Times: 21
+	Date: 2019-08-30 ; Times: 4
+	Date: 2019-08-20 ; Times: 8
+	Date: 2019-08-21 ; Times: 103
+
+List of queries that retrieved data from the resource: 
+	Query: "Platymops setiger haslength:1" ; Times: 2
+	Query: "Myotis volans haslength:1" ; Times: 2
+	Query: "Myotis occultus haslength:1" ; Times: 2
+	Query: "Saccopteryx bilineata haslength:1" ; Times: 2
+	Query: "Taphozous perforatus haslength:1" ; Times: 2
+	Query: "Pipistrellus pipistrellus haslength:1" ; Times: 2
+	Query: "Myotis leibii haslength:1" ; Times: 2
+	Query: "choeroniscus godmani" ; Times: 1
+	Query: "Myotis sodalis" ; Times: 2
+	Query: "Taphozous hamiltoni haslength:1" ; Times: 2
+	Query: "Otomops martiensseni" ; Times: 1
+	Query: "Desmodus rotundus haslength:1" ; Times: 1
+	Query: "Dasypus novemcinctus" ; Times: 1
+	Query: "Sylvilagus brasiliensis mappable:1" ; Times: 2
+	Query: "Euderma maculatum haslength:1" ; Times: 2
+	Query: "Artibeus planirostris hasmass:1" ; Times: 1
+	Query: "Myotis evotis haslength:1" ; Times: 2
+	Query: "Brachyphylla cavernarum haslength:1" ; Times: 2
+	Query: "Dasypus novemcinctus mappable:1" ; Times: 1
+	Query: "Myotis californicus haslength:1" ; Times: 2
+	Query: "Marmosa murina" ; Times: 1
+	Query: "class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:WNMU" ; Times: 2
+	Query: "Macrotus waterhousii haslength:1" ; Times: 2
+	Query: "Epomophorus wahlbergi haslength:1" ; Times: 2
+	Query: "Rousettus aegyptiacus haslength:1" ; Times: 2
+	Query: "Molossus molossus haslength:1" ; Times: 2
+	Query: "Myotis yumanensis haslength:1" ; Times: 2
+	Query: "Taphozous mauritianus haslength:1" ; Times: 2
+	Query: "Zapus hudsonius" ; Times: 6
+	Query: "Mops condylurus haslength:1" ; Times: 2
+	Query: "Sapajus apella" ; Times: 1
+	Query: "Tadarida aegyptiaca haslength:1" ; Times: 2
+	Query: "Myotis auriculus haslength:1" ; Times: 2
+	Query: "Chalinolobus gouldii haslength:1" ; Times: 2
+	Query: "Myotis leibii" ; Times: 1
+	Query: "Rousettus lanosus haslength:1" ; Times: 2
+	Query: "&#34;cave&#34; stateprovince:&#34;indiana&#34; (&#34;jefferson&#34; OR &#34;jennings&#34; OR &#34;ripley&#34;)" ; Times: 1
+	Query: "Myotis ciliolabrum haslength:1" ; Times: 2
+	Query: "specificepithet:norvegicus genus:Rattus hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "Myotis fortidens" ; Times: 1
+	Query: "Vampyrodes caraccioli haslength:1" ; Times: 2
+	Query: "Myotis keenii" ; Times: 1
+	Query: "Hipposideros caffer haslength:1" ; Times: 2
+	Query: "euderma maculatum" ; Times: 2
+	Query: "Idionycteris phyllotis haslength:1" ; Times: 2
+	Query: "Tadarida fulminans haslength:1" ; Times: 2
+	Query: "Lasiurus cinereus haslength:1" ; Times: 2
+	Query: "Coleura afra haslength:1" ; Times: 2
+	Query: "Myotis velifer haslength:1" ; Times: 2
+	Query: "Platyrrhinus lineatus haslength:1" ; Times: 2
+	Query: "Neotoma cinerea" ; Times: 2
+	Query: "Rhinolophus fumigatus haslength:1" ; Times: 2
+	Query: "Taphozous hildegardeae haslength:1" ; Times: 2
+	Query: "Otomops martiensseni haslength:1" ; Times: 1
+	Query: "Proechimys brevicauda" ; Times: 1
+	Query: "Mops mops haslength:1" ; Times: 2
+	Query: "Triaenops afer haslength:1" ; Times: 1
+	Query: "Marmosa murina mappable:1" ; Times: 2
+	Query: "Antrozous pallidus haslength:1" ; Times: 1
+	Query: "Saguinus midas" ; Times: 1
+	Query: "Alouatta seniculus" ; Times: 1
+	Query: "Pteronotus parnellii haslength:1" ; Times: 2
+	Query: "Cardioderma cor haslength:1" ; Times: 1
+	Query: "Lasiurus blossevillii haslength:1" ; Times: 2
+	Query: "Myotis nigricans haslength:1" ; Times: 2
+	Query: "Vulpes macrotis" ; Times: 5
+	Query: "Neotoma fuscipes" ; Times: 2
+	Query: "Artibeus concolor haslength:1" ; Times: 2
+	Query: "Mormopterus planiceps" ; Times: 1
+	Query: "Pteronotus personatus haslength:1" ; Times: 1
+	Query: "Saimiri sciureus" ; Times: 1
+	Query: "vntype:specimen specificepithet:vivesi genus:Myotis year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "genus:scapanus class:mammalia county:&#34;san luis obispo&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Glossophaga soricina haslength:1" ; Times: 2
+	Query: "class:mammalia county:&#34;san luis obispo&#34; stateprovince:&#34;california&#34; institutioncode:WNMU" ; Times: 2
+	Query: "Natalus stramineus haslength:1" ; Times: 2
+	Query: "Natalus mexicanus haslength:1" ; Times: 3
+	Query: "Lasiurus ega haslength:1" ; Times: 2
+	Query: "Lonchophylla thomasi haslength:1" ; Times: 2
+	Query: "Myotis austroriparius haslength:1" ; Times: 2
+	Query: "Uroderma bilobatum haslength:1" ; Times: 2
+	Query: "Myotis keenii haslength:1" ; Times: 2
+	Query: "Eidolon helvum haslength:1" ; Times: 2
+	Query: "Epomophorus labiatus haslength:1" ; Times: 2
+	Query: "Myotis thysanodes haslength:1" ; Times: 1
+	Query: "Akodon varius mappable:1" ; Times: 2
+	Query: "vntype:specimen specificepithet:maculatum genus:Euderma year &gt;= 1970 year &lt;= 2019" ; Times: 2
+	Query: "diaemus youngi" ; Times: 1
+	Query: "Rhinolophus landeri haslength:1" ; Times: 2
+	Query: "Chiroderma villosum haslength:1" ; Times: 2
+	Query: "Scotophilus nigrita haslength:1" ; Times: 2
+	Query: "Phyllostomus discolor haslength:1" ; Times: 1
+	Query: "Snow lake New Mexico" ; Times: 1
+	Query: "Pipistrellus hesperus haslength:1" ; Times: 2
+	Query: "Leptonycteris curasoae haslength:1" ; Times: 2
+	Query: "Nyctinomops macrotis haslength:1" ; Times: 1
+	Query: "Myotis mystacinus" ; Times: 1
+	Query: "Hipposideros commersoni haslength:1" ; Times: 2
+	Query: "Leptonycteris nivalis haslength:1" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 81 (out of 1034 download events in this period)
+Total number of records downloaded: 1091
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 50
+	Country: Brazil ; Times: 3
+	Country: China ; Times: 2
+	Country: Peru ; Times: 2
+	Country: Mexico ; Times: 24
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-08-12 ; Times: 2
+	Date: 2019-08-09 ; Times: 1
+	Date: 2019-08-22 ; Times: 3
+	Date: 2019-08-19 ; Times: 13
+	Date: 2019-08-02 ; Times: 2
+	Date: 2019-08-08 ; Times: 3
+	Date: 2019-08-15 ; Times: 2
+	Date: 2019-08-14 ; Times: 1
+	Date: 2019-08-13 ; Times: 3
+	Date: 2019-08-05 ; Times: 7
+	Date: 2019-08-28 ; Times: 5
+	Date: 2019-08-29 ; Times: 3
+	Date: 2019-08-26 ; Times: 5
+	Date: 2019-08-27 ; Times: 1
+	Date: 2019-08-24 ; Times: 4
+	Date: 2019-08-25 ; Times: 1
+	Date: 2019-08-31 ; Times: 2
+	Date: 2019-08-23 ; Times: 5
+	Date: 2019-08-20 ; Times: 13
+	Date: 2019-08-21 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen specificepithet:vivesi genus:Myotis year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "myotis austroriparius" ; Times: 1
+	Query: "nycticeius humeralis" ; Times: 2
+	Query: "artibeus phaeotis" ; Times: 1
+	Query: "vntype:specimen specificepithet:serotinus genus:Eptesicus preparations:skull" ; Times: 1
+	Query: "uroderma bilobatum" ; Times: 1
+	Query: "lasiurus ega" ; Times: 3
+	Query: "lasiurus blossevillii" ; Times: 1
+	Query: "specificepithet:leucopus genus:Peromyscus hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:parvula genus:Rhogeessa year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "vntype:specimen specificepithet:evotis genus:Myotis year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "vntype:specimen specificepithet:nivalis genus:Leptonycteris year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "vntype:specimen specificepithet:pipistrellus genus:pipistrellus preparations:skull" ; Times: 1
+	Query: "specificepithet:princeps genus:Ochotona" ; Times: 1
+	Query: "choeroniscus godmani" ; Times: 1
+	Query: "Lasiurus borealis" ; Times: 1
+	Query: "phyllostomus discolor" ; Times: 1
+	Query: "mormoops megalophylla" ; Times: 1
+	Query: "Lepus californicus" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:nigricans genus:myotis preparations:skull" ; Times: 1
+	Query: "lepus americanus" ; Times: 1
+	Query: "myotis volans" ; Times: 1
+	Query: "Desmodus rotundus" ; Times: 1
+	Query: "myotis velifer" ; Times: 1
+	Query: "Glossophaga leachii" ; Times: 1
+	Query: "pipistrellus hesperus" ; Times: 1
+	Query: "genus:Neotoma hassex:1 hasmass:1" ; Times: 1
+	Query: "Bassariscus" ; Times: 1
+	Query: "vntype:specimen specificepithet:noctivagans genus:Lasionycteris year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "leptonycteris nivalis" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "lasiurus borealis" ; Times: 1
+	Query: "choeronycteris mexicana" ; Times: 3
+	Query: "Rhinolophus fumigatus" ; Times: 1
+	Query: "Glossophaga commissarisi" ; Times: 1
+	Query: "Liomys irroratus" ; Times: 1
+	Query: "vntype:specimen specificepithet:maculatum genus:Euderma year &gt;= 1970 year &lt;= 2019" ; Times: 2
+	Query: "myotis californicus" ; Times: 1
+	Query: "diaemus youngi" ; Times: 1
+	Query: "Chaetodipus intermedius" ; Times: 2
+	Query: "ochotona princeps" ; Times: 6
+	Query: "lasionycteris noctivagans" ; Times: 1
+	Query: "myotis thysanodes" ; Times: 1
+	Query: "Sciuridae" ; Times: 1
+	Query: "centurio senex" ; Times: 1
+	Query: "irroratus" ; Times: 2
+	Query: "specificepithet:norvegicus genus:Rattus hassex:1 hasmass:1 haslength:1" ; Times: 2
+	Query: "pipistrellus subflavus" ; Times: 1
+	Query: "vampyrodes caraccioli" ; Times: 1
+	Query: "anoura geoffroyi" ; Times: 1
+	Query: "Nasua" ; Times: 1
+	Query: "carollia subrufa" ; Times: 1
+	Query: "myotis ciliolabrum" ; Times: 1
+	Query: "order:Chiroptera stateprovince:&#34;Minas Gerais&#34;" ; Times: 1
+	Query: "myotis yumanensis" ; Times: 1
+	Query: "canis latrans" ; Times: 1
+	Query: "lasiurus cinereus" ; Times: 2
+	Query: "lasiurus intermedius" ; Times: 1
+	Query: "chiroderma villosum" ; Times: 1
+	Query: "myotis occultus" ; Times: 1
+	Query: "euderma maculatum" ; Times: 2
+	Query: "vntype:specimen specificepithet:myotis genus:myotis preparations:skull" ; Times: 1
+	Query: "macrophyllum macrophyllum" ; Times: 1
+	Query: "Lasiurus cinereus" ; Times: 1
+
+
+End of report.
