@@ -1,0 +1,169 @@
+Report for Institution Code WNMU, Resource wnmu_mamm
+Usage stats for March 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 106
+Number of records retrieved in searches: 319
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 18
+	Country: Unknown ; Times: 1
+	Country: Brazil ; Times: 2
+	Country: Mexico ; Times: 85
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-03-10 ; Times: 3
+	Date: 2020-03-18 ; Times: 51
+	Date: 2020-03-19 ; Times: 15
+	Date: 2020-03-31 ; Times: 1
+	Date: 2020-03-25 ; Times: 3
+	Date: 2020-03-24 ; Times: 2
+	Date: 2020-03-29 ; Times: 1
+	Date: 2020-03-21 ; Times: 1
+	Date: 2020-03-20 ; Times: 21
+	Date: 2020-03-02 ; Times: 2
+	Date: 2020-03-12 ; Times: 1
+	Date: 2020-03-13 ; Times: 1
+	Date: 2020-03-03 ; Times: 3
+	Date: 2020-03-22 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Eumops underwoodi" ; Times: 1
+	Query: "Nycteris macrotis" ; Times: 2
+	Query: "Sapajus" ; Times: 1
+	Query: "Hipposideros bicolor" ; Times: 1
+	Query: "Rousettus lanosus" ; Times: 1
+	Query: "180204" ; Times: 1
+	Query: "Lasiurus ega" ; Times: 2
+	Query: "Taphozous hildegardeae" ; Times: 1
+	Query: "Ametrida centurio" ; Times: 1
+	Query: "&#34;Changena Camp&#34;" ; Times: 1
+	Query: "Hipposideros speoris" ; Times: 1
+	Query: "Mormopterus planiceps" ; Times: 2
+	Query: "Tadarida fulminans" ; Times: 1
+	Query: "Rhinolophus simulator" ; Times: 1
+	Query: "Nyctinomops macrotis" ; Times: 2
+	Query: "Triaenops afer" ; Times: 1
+	Query: "Myotis auriculus" ; Times: 2
+	Query: "Micronycteris minuta" ; Times: 2
+	Query: "family:Galagonidae" ; Times: 1
+	Query: "Plw" ; Times: 1
+	Query: "Rhinolophus euryale" ; Times: 1
+	Query: "Choeronycteris mexicana" ; Times: 1
+	Query: "specificepithet:truei genus:Peromyscus county:&#34;Eddy&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 2
+	Query: "Barbastella barbastellus" ; Times: 1
+	Query: "Eptesicus brasiliensis" ; Times: 1
+	Query: "Platyrrhinus lineatus" ; Times: 1
+	Query: "Otomops martiensseni" ; Times: 1
+	Query: "Myotis leibii" ; Times: 1
+	Query: "Diaemus youngi" ; Times: 1
+	Query: "Dermanura phaeotis" ; Times: 1
+	Query: "Plecotus auritus" ; Times: 1
+	Query: "Eidolon helvum" ; Times: 1
+	Query: "sigmodon hispidus county:&#34;cochise&#34; stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "Platymops setiger" ; Times: 1
+	Query: "genus:Procavia specificepithet:capensis" ; Times: 2
+	Query: "Eptesicus serotinus" ; Times: 1
+	Query: "Eumops glaucinus" ; Times: 1
+	Query: "Plecotus austriacus" ; Times: 1
+	Query: "Vampyrodes caraccioli" ; Times: 1
+	Query: "344812" ; Times: 1
+	Query: "Rhinolophus fumigatus" ; Times: 1
+	Query: "Artibeus concolor" ; Times: 1
+	Query: "Pipistrellus capensis" ; Times: 1
+	Query: "Scotophilus nigrita" ; Times: 1
+	Query: "specificepithet:frenata genus:Mustela stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Nyctalus noctula" ; Times: 1
+	Query: "&#34;12 mi. E Ortiz Rubio&#34;" ; Times: 1
+	Query: "Rhinolophus landeri" ; Times: 1
+	Query: "reithrodontomys Fulvescens county:&#34;cochise&#34; stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "(216302)" ; Times: 1
+	Query: "Myotis mystacinus" ; Times: 4
+	Query: "MAMM (6657)" ; Times: 1
+	Query: "Idionycteris phyllotis" ; Times: 2
+	Query: "Euderma maculatum" ; Times: 1
+	Query: "Centurio senex" ; Times: 1
+	Query: "Tadarida aegyptiaca" ; Times: 1
+	Query: "Rhinolophus mehelyi" ; Times: 1
+	Query: "Macrophyllum macrophyllum" ; Times: 2
+	Query: "Taphozous hamiltoni" ; Times: 1
+	Query: "Lavia frons" ; Times: 2
+	Query: "Myotis fortidens" ; Times: 2
+	Query: "Rhogeessa parvula" ; Times: 1
+	Query: "SAPAJUS APELLA" ; Times: 1
+	Query: "Lasiurus blossevillii" ; Times: 2
+	Query: "Lasiurus intermedius" ; Times: 2
+	Query: "Myotis keenii" ; Times: 2
+	Query: "Cardioderma cor" ; Times: 1
+	Query: "&#34;5 km. SE Pueblo Juárez&#34;" ; Times: 2
+	Query: "Nyctinomops femorosaccus" ; Times: 2
+	Query: "Noctilio leporinus" ; Times: 1
+	Query: "Pipistrellus nathusii" ; Times: 1
+	Query: "Musonycteris harrisoni" ; Times: 2
+	Query: "Taphozous mauritianus" ; Times: 1
+	Query: "Nyctalus leisleri" ; Times: 2
+	Query: "Eumops perotis" ; Times: 1
+	Query: "Sapajus apella" ; Times: 1
+	Query: "Myotis nattereri" ; Times: 2
+	Query: "Taphozous nudiventris" ; Times: 1
+	Query: "Leptonycteris nivalis" ; Times: 2
+	Query: "specificepithet:putorius genus:Mustela haslength:1" ; Times: 1
+	Query: "Choeroniscus godmani" ; Times: 1
+	Query: "Taphozous perforatus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 23 (out of 853 download events in this period)
+Total number of records downloaded: 184
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 15
+	Country: Brazil ; Times: 5
+	Country: Argentina ; Times: 1
+	Country: Czechia ; Times: 1
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-03-18 ; Times: 1
+	Date: 2020-03-19 ; Times: 1
+	Date: 2020-03-31 ; Times: 8
+	Date: 2020-03-25 ; Times: 1
+	Date: 2020-03-24 ; Times: 1
+	Date: 2020-03-22 ; Times: 2
+	Date: 2020-03-21 ; Times: 1
+	Date: 2020-03-20 ; Times: 1
+	Date: 2020-03-05 ; Times: 2
+	Date: 2020-03-17 ; Times: 1
+	Date: 2020-03-07 ; Times: 1
+	Date: 2020-03-12 ; Times: 1
+	Date: 2020-03-10 ; Times: 1
+	Date: 2020-03-02 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Blarina stateprovince:&#34;Pennsylvania&#34;" ; Times: 1
+	Query: "genus:Peromyscus stateprovince:&#34;Pennsylvania&#34;" ; Times: 2
+	Query: "specificepithet:hispidus genus:Sigmodon hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "SAPAJUS APELLA" ; Times: 1
+	Query: "Sapajus" ; Times: 1
+	Query: "specificepithet:virginiana genus:Didelphis" ; Times: 1
+	Query: "specificepithet:frenata genus:Mustela stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:vagrans genus:Sorex stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Nasua nasua" ; Times: 1
+	Query: "specificepithet:interpres genus:Ammospermophilus" ; Times: 1
+	Query: "family:Galagonidae" ; Times: 1
+	Query: "desmodus rotundus" ; Times: 1
+	Query: "Sapajus apella" ; Times: 1
+	Query: "genus:Neotoma county:&#34;Cochise&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "genus:peromyscus stateprovince:&#34;indiana&#34;" ; Times: 1
+	Query: "specificepithet:americanus genus:lepus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:townsendii genus:lepus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:curasoae genus:Leptonycteris" ; Times: 1
+	Query: "genus:Tachyoryctes" ; Times: 1
+	Query: "genus:Peromyscus stateprovince:&#34;Indiana&#34;" ; Times: 2
+	Query: "Pecari tajacu" ; Times: 1
+
+
+End of report.
