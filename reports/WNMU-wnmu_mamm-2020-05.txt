@@ -1,0 +1,101 @@
+Report for Institution Code WNMU, Resource wnmu_mamm
+Usage stats for May 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 17
+Number of records retrieved in searches: 34
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 17
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-27 ; Times: 2
+	Date: 2020-05-28 ; Times: 2
+	Date: 2020-05-07 ; Times: 4
+	Date: 2020-05-08 ; Times: 2
+	Date: 2020-05-10 ; Times: 3
+	Date: 2020-05-06 ; Times: 1
+	Date: 2020-05-05 ; Times: 1
+	Date: 2020-05-12 ; Times: 1
+	Date: 2020-05-01 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "390653" ; Times: 1
+	Query: "560618" ; Times: 1
+	Query: "9152 peromyscus" ; Times: 1
+	Query: "&#34;Mephitis macroura&#34; &#34;New Mexico&#34;" ; Times: 1
+	Query: "specificepithet:californicus genus:peromyscus institutioncode:WNMU" ; Times: 1
+	Query: "&#34;peromyscus leucopus&#34; vntype:specimen stateprovince:&#34;massachusetts&#34; institutioncode:WNMU" ; Times: 1
+	Query: "639698" ; Times: 1
+	Query: "552964" ; Times: 1
+	Query: "genus:euderma hasmass:1 haslength:1" ; Times: 1
+	Query: "9738 peromyscus" ; Times: 1
+	Query: "Neotoma cinerea" ; Times: 2
+	Query: "genus:Peromyscus locality:San Bernardino year &gt;= 2002" ; Times: 1
+	Query: "539344" ; Times: 1
+	Query: "539345" ; Times: 1
+	Query: "anoura caudifera vntype:specimen" ; Times: 1
+	Query: "446851" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 32 (out of 1106 download events in this period)
+Total number of records downloaded: 3691
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 6
+	Country: Unknown ; Times: 1
+	Country: United States ; Times: 20
+	Country: Colombia ; Times: 1
+	Country: Argentina ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-30 ; Times: 5
+	Date: 2020-05-23 ; Times: 3
+	Date: 2020-05-22 ; Times: 6
+	Date: 2020-05-28 ; Times: 3
+	Date: 2020-05-18 ; Times: 1
+	Date: 2020-05-07 ; Times: 3
+	Date: 2020-05-08 ; Times: 4
+	Date: 2020-05-10 ; Times: 1
+	Date: 2020-05-06 ; Times: 2
+	Date: 2020-05-04 ; Times: 2
+	Date: 2020-05-03 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen genus:Mus" ; Times: 1
+	Query: "order:Rodentia stateprovince:Colorado" ; Times: 1
+	Query: "mephitis macroura" ; Times: 1
+	Query: "Perognathus flavus" ; Times: 1
+	Query: "Jackson Oregon" ; Times: 1
+	Query: "order:Rodentia stateprovince:New Mexico" ; Times: 2
+	Query: "&#34;Mephitis macroura&#34; &#34;New Mexico&#34;" ; Times: 1
+	Query: "Puma concolor" ; Times: 2
+	Query: "Peromyscus maniculatus" ; Times: 1
+	Query: "Martes zibellina" ; Times: 1
+	Query: "&#34;Peromyscus keeni&#34;" ; Times: 1
+	Query: "Lontra canadensis" ; Times: 1
+	Query: "Perognathus flavescens" ; Times: 1
+	Query: "specificepithet:trowbridgii genus:sorex" ; Times: 1
+	Query: "procyon lotor" ; Times: 1
+	Query: "mustela frenata" ; Times: 1
+	Query: "lynx rufus" ; Times: 1
+	Query: "Martes martes" ; Times: 1
+	Query: "belize and chiroptera" ; Times: 1
+	Query: "odocoileus hemionus" ; Times: 1
+	Query: "Nasua nasua" ; Times: 1
+	Query: "Martes pennanti" ; Times: 1
+	Query: "bassariscus astutus" ; Times: 1
+	Query: "vntype:specimen genus:Mus hasmass:1" ; Times: 2
+	Query: "vntype:specimen genus:Mus haslength:1" ; Times: 1
+	Query: "genus:Martes" ; Times: 2
+	Query: "nasua narica" ; Times: 1
+	Query: "Lasiurus cinereus" ; Times: 1
+
+
+End of report.
