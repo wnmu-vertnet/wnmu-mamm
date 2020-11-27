@@ -1,0 +1,132 @@
+Report for Institution Code WNMU, Resource wnmu_mamm
+Usage stats for November 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 60
+Number of records retrieved in searches: 312
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 33
+	Country: Denmark ; Times: 26
+	Country: Canada ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-11-19 ; Times: 1
+	Date: 2019-11-08 ; Times: 6
+	Date: 2019-11-09 ; Times: 2
+	Date: 2019-11-06 ; Times: 8
+	Date: 2019-11-07 ; Times: 7
+	Date: 2019-11-16 ; Times: 5
+	Date: 2019-11-11 ; Times: 3
+	Date: 2019-11-03 ; Times: 8
+	Date: 2019-11-01 ; Times: 2
+	Date: 2019-11-15 ; Times: 10
+	Date: 2019-11-10 ; Times: 4
+	Date: 2019-11-12 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:hispidus genus:Chaetodipus county:&#34;Grant&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 2
+	Query: "Myotis sodalis 2019" ; Times: 4
+	Query: "specificepithet:megalotis genus:Reithrodontomys county:&#34;catron&#34; stateprovince:&#34;new mexico&#34;" ; Times: 1
+	Query: "Ctenomys steinbachi" ; Times: 2
+	Query: "Eidolon helvum" ; Times: 2
+	Query: "specificepithet:hispidus genus:Sigmodon county:&#34;Socorro&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "specificepithet:baileyi genus:Chaetodipus county:&#34;Yavapai&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Proechimys brevicauda" ; Times: 2
+	Query: "Nasua narica" ; Times: 4
+	Query: "genus:peromyscus leucopus stateprovince:&#34;california&#34; hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "specificepithet:baileyi genus:Chaetodipus county:&#34;Hidalgo&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "Dasypus novemcinctus" ; Times: 1
+	Query: "Akodon varius" ; Times: 2
+	Query: "specificepithet:baileyi genus:Chaetodipus county:&#34;Grant&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 3
+	Query: "352031" ; Times: 1
+	Query: "Ctenomys boliviensis" ; Times: 2
+	Query: "Myotis sodalis 2007" ; Times: 4
+	Query: "specificepithet:hispidus genus:Chaetodipus stateprovince:&#34;Sonora&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "locality:12 mi. NW Tucson" ; Times: 1
+	Query: "Alouatta seniculus" ; Times: 1
+	Query: "Marmosa murina" ; Times: 2
+	Query: "specificepithet:megalotis genus:Reithrodontomys county:&#34;Grant&#34; stateprovince:&#34;new Mexico&#34;" ; Times: 3
+	Query: "vntype:specimen genus:pipistrellus country:&#34;kenya&#34;" ; Times: 3
+	Query: "specificepithet:hispidus genus:Sigmodon county:&#34;Catron&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "Myocastor coypus" ; Times: 1
+	Query: "Cercopithecus mitis" ; Times: 4
+	Query: "specificepithet:gapperi genus:Clethrionomys stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "Coendou prehensilis" ; Times: 3
+	Query: "&#34;mus musculus&#34; vntype:specimen stateprovince:&#34;Massachusetts&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:hispidus genus:Chaetodipus county:&#34;Hidalgo&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "specificepithet:megalotis genus:Reithrodontomys county:&#34;Catron&#34; stateprovince:&#34;new mexico&#34;" ; Times: 1
+	Query: "specificepithet:lateralis genus:Spermophilus stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "Myotis leibii mappable:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 42 (out of 1367 download events in this period)
+Total number of records downloaded: 413
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 38
+	Country: Brazil ; Times: 2
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-11-20 ; Times: 2
+	Date: 2019-11-21 ; Times: 1
+	Date: 2019-11-22 ; Times: 5
+	Date: 2019-11-08 ; Times: 1
+	Date: 2019-11-09 ; Times: 1
+	Date: 2019-11-06 ; Times: 10
+	Date: 2019-11-04 ; Times: 1
+	Date: 2019-11-05 ; Times: 1
+	Date: 2019-11-10 ; Times: 1
+	Date: 2019-11-01 ; Times: 12
+	Date: 2019-11-15 ; Times: 2
+	Date: 2019-11-28 ; Times: 1
+	Date: 2019-11-12 ; Times: 3
+	Date: 2019-11-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:baileyi genus:Chaetodipus county:&#34;Pinal&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "genus:Chaetodipus locality:Tucson" ; Times: 1
+	Query: "specificepithet:hispidus genus:Chaetodipus county:&#34;Grant&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "specificepithet:baileyi genus:Chaetodipus county:&#34;Pima&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "specificepithet:hispidus genus:Chaetodipus stateprovince:&#34;Sonora&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:carolinensis genus:sciurus" ; Times: 5
+	Query: "specificepithet:baileyi genus:Chaetodipus county:&#34;Yavapai&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "specificepithet:longicaudus genus:Microtus stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "specificepithet:minimus genus:Tamias stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "specificepithet:talpoides genus:Thomomys stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "specificepithet:baileyi genus:Chaetodipus county:&#34;Hidalgo&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "order:Rodentia stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:baileyi genus:Chaetodipus county:&#34;Grant&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "genus:Tamiasciurus stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "specificepithet:baileyi genus:Chaetodipus county:&#34;Pima&#34; stateprovince:&#34;Arizona&#34; year &gt;= 1969 year &lt;= 1990" ; Times: 1
+	Query: "specificepithet:monticolus genus:Sorex stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "specificepithet:arenarius genus:Chaetodipus stateprovince:&#34;Baja California&#34; country:&#34;Mexico&#34; year &gt;= 1950 year &lt;= 1980" ; Times: 1
+	Query: "specificepithet:monticolus genus:Sorex stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Didelphis virginiana" ; Times: 1
+	Query: "Marmosa murina" ; Times: 1
+	Query: "specificepithet:baileyi genus:Chaetodipus county:&#34;Pima&#34; stateprovince:&#34;Arizona&#34; year &gt;= 1939 year &lt;= 1970" ; Times: 1
+	Query: "Mus musculus" ; Times: 1
+	Query: "specificepithet:longicaudus genus:Microtus stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "specificepithet:baileyi genus:Chaetodipus stateprovince:&#34;Sonora&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Didelphis marsupialis" ; Times: 1
+	Query: "order:rodentia county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:gapperi genus:Clethrionomys stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "genus:Chaetodipus county:&#34;Riverside&#34; stateprovince:&#34;California&#34; year &gt;= 1980 year &lt;= 2020" ; Times: 1
+	Query: "order:rodentia stateprovince:&#34;Illinois&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Chaetodipus county:&#34;San Bernardino&#34; stateprovince:&#34;California&#34; year &gt;= 1980 year &lt;= 2020" ; Times: 1
+	Query: "specificepithet:quadrivittatus genus:Tamias stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "specificepithet:hispidus genus:Chaetodipus county:&#34;Hidalgo&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "specificepithet:lateralis genus:Spermophilus stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "antrozous pallidus" ; Times: 1
+	Query: "specificepithet:montanus genus:Microtus stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "myotis fortidens" ; Times: 1
+	Query: "specificepithet:montanus genus:Microtus stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "Pecari tajacu" ; Times: 1
+
+
+End of report.
