@@ -1,0 +1,133 @@
+Report for Institution Code WNMU, Resource wnmu_mamm
+Usage stats for February 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 19
+Number of records retrieved in searches: 24
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 16
+	Country: Morocco ; Times: 1
+	Country: United Kingdom ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-03 ; Times: 1
+	Date: 2020-02-02 ; Times: 1
+	Date: 2020-02-25 ; Times: 3
+	Date: 2020-02-13 ; Times: 2
+	Date: 2020-02-12 ; Times: 2
+	Date: 2020-02-06 ; Times: 1
+	Date: 2020-02-14 ; Times: 4
+	Date: 2020-02-05 ; Times: 1
+	Date: 2020-02-19 ; Times: 1
+	Date: 2020-02-27 ; Times: 1
+	Date: 2020-02-21 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "dasypus &#34;novemcinctus&#34;" ; Times: 1
+	Query: "&#34;Dasypus novemcinctus&#34;" ; Times: 1
+	Query: "genus:Peromyscus stateprovince:&#34;Labrador&#34; country:&#34;Canada&#34;" ; Times: 1
+	Query: "class:mammalia catalognumber:1392" ; Times: 2
+	Query: "Dasypus novemcinctus" ; Times: 1
+	Query: "WNMU 5096" ; Times: 1
+	Query: "xerus erythropus" ; Times: 1
+	Query: "Neotoma cinerea" ; Times: 2
+	Query: "specificepithet:chrotorrhinus genus:Microtus stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "family:Tarsipedidae preparations:skeleton" ; Times: 4
+	Query: "euderma maculatum basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Dendrohyrax" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 49 (out of 1023 download events in this period)
+Total number of records downloaded: 6508
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 5
+	Country: Egypt ; Times: 1
+	Country: France ; Times: 1
+	Country: United States ; Times: 36
+	Country: Guyana ; Times: 1
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-05 ; Times: 1
+	Date: 2020-02-24 ; Times: 1
+	Date: 2020-02-25 ; Times: 3
+	Date: 2020-02-26 ; Times: 2
+	Date: 2020-02-27 ; Times: 5
+	Date: 2020-02-06 ; Times: 3
+	Date: 2020-02-21 ; Times: 2
+	Date: 2020-02-04 ; Times: 1
+	Date: 2020-02-23 ; Times: 1
+	Date: 2020-02-08 ; Times: 2
+	Date: 2020-02-09 ; Times: 1
+	Date: 2020-02-11 ; Times: 5
+	Date: 2020-02-10 ; Times: 3
+	Date: 2020-02-13 ; Times: 2
+	Date: 2020-02-12 ; Times: 2
+	Date: 2020-02-15 ; Times: 1
+	Date: 2020-02-14 ; Times: 2
+	Date: 2020-02-17 ; Times: 2
+	Date: 2020-02-19 ; Times: 3
+	Date: 2020-02-18 ; Times: 3
+	Date: 2020-02-03 ; Times: 1
+	Date: 2020-02-20 ; Times: 2
+	Date: 2020-02-07 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:longicaudus genus:microtus stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "genus:cavia" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Minas Gerais&#34;" ; Times: 1
+	Query: "genus:Geomys family:Geomyidae basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Graphiurus" ; Times: 2
+	Query: "&#34;Myotis lucifugus&#34; continent:North America hasmass:1 haslength:1" ; Times: 1
+	Query: "mammal hasmass:1" ; Times: 1
+	Query: "class:Mammalia county:&#34;Riverside&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:californicus genus:dipodomys stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "genus:Peromyscus stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "zapus princeps" ; Times: 1
+	Query: "&#34;Lasiurus cinereus&#34; continent:North America hasmass:1 haslength:1" ; Times: 1
+	Query: "vntype:specimen order:Primates" ; Times: 1
+	Query: "genus:peromyscus stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "sorex cinereus" ; Times: 1
+	Query: "genus:Tamiasciurus" ; Times: 1
+	Query: "genus:ochotona" ; Times: 1
+	Query: "vntype:specimen genus:Myotis continent:North America hasmass:1" ; Times: 1
+	Query: "louisiana" ; Times: 1
+	Query: "genus:Cratogeomys stateprovince:&#34;Texas&#34; year &gt;= 1700 year &lt;= 1970" ; Times: 1
+	Query: "specificepithet:heermanni genus:dipodomys stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Didelphis virginiana" ; Times: 2
+	Query: "sciurus niger" ; Times: 1
+	Query: "guyana" ; Times: 1
+	Query: "vntype:specimen genus:Graphiurus" ; Times: 1
+	Query: "genus:Notiosorex stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "order:rodentia hassex:1 hasmass:1" ; Times: 1
+	Query: "Idionycteris phyllotis" ; Times: 1
+	Query: "Nasua narica" ; Times: 1
+	Query: "Manis pentadactyla" ; Times: 1
+	Query: "Cyclopes didactylus" ; Times: 1
+	Query: "order:Chiroptera hassex:1 hasmass:1" ; Times: 1
+	Query: "genus:Geomys stateprovince:&#34;Texas&#34; year &gt;= 1961 year &lt;= 1970" ; Times: 1
+	Query: "didelphis virginiana" ; Times: 1
+	Query: "Grammomys dolichurus" ; Times: 1
+	Query: "order:Chiroptera stateprovince:&#34;Minas Gerais&#34;" ; Times: 1
+	Query: "canis latrans" ; Times: 1
+	Query: "Coendou prehensilis" ; Times: 1
+	Query: "genus:Manis" ; Times: 1
+	Query: "sigmodon hispidus" ; Times: 1
+	Query: "&#34;Eptesicus fuscus&#34; continent:North America hasmass:1 haslength:1" ; Times: 1
+	Query: "Myotis ciliolabrum basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:pennsylvanicus genus:microtus stateprovince:&#34;michigan&#34;" ; Times: 1
+	Query: "myotis austroriparius" ; Times: 1
+	Query: "Peromyscus leucopus" ; Times: 1
+	Query: "specificepithet:chrotorrhinus genus:Microtus stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "specificepithet:pennsylvanicus genus:microtus stateprovince:&#34;minnesota&#34;" ; Times: 1
+
+
+End of report.
