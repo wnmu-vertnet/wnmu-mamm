@@ -1,0 +1,137 @@
+Report for Institution Code WNMU, Resource wnmu_mamm
+Usage stats for September 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 40
+Number of records retrieved in searches: 140
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 25
+	Country: Colombia ; Times: 1
+	Country: Ecuador ; Times: 1
+	Country: Mexico ; Times: 13
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-09-30 ; Times: 5
+	Date: 2020-09-22 ; Times: 3
+	Date: 2020-09-25 ; Times: 2
+	Date: 2020-09-24 ; Times: 1
+	Date: 2020-09-12 ; Times: 1
+	Date: 2020-09-13 ; Times: 14
+	Date: 2020-09-28 ; Times: 1
+	Date: 2020-09-26 ; Times: 2
+	Date: 2020-09-08 ; Times: 11
+
+List of queries that retrieved data from the resource: 
+	Query: "anoura caudifera vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "scientificname:Peromyscus mexicanus" ; Times: 2
+	Query: "specificepithet:striatus genus:Tamias country:&#34;United States&#34; lengthtype:total length hasmass:1" ; Times: 1
+	Query: "specificepithet:lotor genus:procyon continent:North America institutioncode:WNMU hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "specificepithet:mephitis genus:Mephitis continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 3
+	Query: "specificepithet:lotor genus:procyon continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "scientificname:Reithrodontomys megalotis" ; Times: 1
+	Query: "specificepithet:rufus genus:lynx continent:North America haslifestage:1 hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "scientificname:Reithrodontomys fulvescens" ; Times: 2
+	Query: "scientificname:Liomys irroratus" ; Times: 1
+	Query: "specificepithet:vulpes genus:vulpes continent:North America hasmass:1 haslength:1" ; Times: 1
+	Query: "scientificname:Oligoryzomys fulvescens" ; Times: 1
+	Query: "Cricetomys gambianus vntype:specimen institutioncode:WNMU" ; Times: 1
+	Query: "Cricetomys" ; Times: 1
+	Query: "hayward country:&#34;tunisia&#34;" ; Times: 3
+	Query: "specificepithet:lotor genus:Procyon continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "scientificname:Reithrodontomys mexicanus" ; Times: 1
+	Query: "specificepithet:vison genus:Mustela continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "scientificname:Peromyscus pectoralis" ; Times: 1
+	Query: "Musonycteris harrisoni vntype:specimen preparations:skull" ; Times: 1
+	Query: "specificepithet:rufus genus:lynx continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 2
+	Query: "scientificname:Peromyscus difficilis" ; Times: 3
+	Query: "174933" ; Times: 1
+	Query: "hayward order:chiroptera country:&#34;tunisia&#34;" ; Times: 1
+	Query: "specificepithet:monax genus:Marmota hasmass:1" ; Times: 1
+	Query: "specificepithet:nivalis genus:Leptonycteris hasmass:1" ; Times: 3
+	Query: "scientificname:Reithrodontomys sumichrasti" ; Times: 1
+	Query: "scientificname:Nasua narica" ; Times: 1
+	Query: "anoura caudifera" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 45 (out of 976 download events in this period)
+Total number of records downloaded: 5619
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 39
+	Country: Mexico ; Times: 3
+	Country: Hong Kong ; Times: 1
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-09-14 ; Times: 2
+	Date: 2020-09-21 ; Times: 4
+	Date: 2020-09-16 ; Times: 1
+	Date: 2020-09-17 ; Times: 2
+	Date: 2020-09-10 ; Times: 5
+	Date: 2020-09-24 ; Times: 2
+	Date: 2020-09-12 ; Times: 2
+	Date: 2020-09-13 ; Times: 1
+	Date: 2020-09-29 ; Times: 1
+	Date: 2020-09-28 ; Times: 2
+	Date: 2020-09-26 ; Times: 1
+	Date: 2020-09-18 ; Times: 4
+	Date: 2020-09-23 ; Times: 1
+	Date: 2020-09-06 ; Times: 2
+	Date: 2020-09-09 ; Times: 7
+	Date: 2020-09-27 ; Times: 1
+	Date: 2020-09-25 ; Times: 1
+	Date: 2020-09-22 ; Times: 1
+	Date: 2020-09-08 ; Times: 2
+	Date: 2020-09-20 ; Times: 1
+	Date: 2020-09-30 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:gibbsii genus:Neurotrichus" ; Times: 1
+	Query: "specificepithet:musculus genus:mus lengthtype:total length hasmass:1 haslength:1" ; Times: 1
+	Query: "Peromyscus maniculatus hasmass:1" ; Times: 1
+	Query: "Lepus americanus" ; Times: 1
+	Query: "order:Chiroptera stateprovince:&#34;Missouri&#34;" ; Times: 1
+	Query: "specificepithet:lotor genus:procyon continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "genus:Tamiasciurus specificepithet:.*" ; Times: 1
+	Query: "specificepithet:concolor genus:puma continent:North America" ; Times: 1
+	Query: "Lasiurus borealis" ; Times: 1
+	Query: "Lasionycteris noctivagans" ; Times: 1
+	Query: "specificepithet:grisescens genus:Myotis" ; Times: 2
+	Query: "specificepithet:cristata genus:Condylura" ; Times: 1
+	Query: "genus:Tamiasciurus" ; Times: 1
+	Query: "genus:Tamias striatus haslength:1" ; Times: 1
+	Query: "Myocastor coypus continent:north america" ; Times: 1
+	Query: "specificepithet:floridanus genus:Sylvilagus continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "peromyscus eremicus" ; Times: 1
+	Query: "condylura cristata" ; Times: 1
+	Query: "specificepithet:vulpes genus:vulpes" ; Times: 1
+	Query: "myotis californicus" ; Times: 3
+	Query: "Lasiurus cinereus" ; Times: 1
+	Query: "Glaucomys sabrinus" ; Times: 1
+	Query: "Idionycteris phyllotis" ; Times: 1
+	Query: "artibeus cinereus vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:americanus genus:ursus" ; Times: 1
+	Query: "specificepithet:nivalis genus:Leptonycteris hasmass:1" ; Times: 2
+	Query: "Eptesicus fuscus" ; Times: 1
+	Query: "Aplodontia" ; Times: 1
+	Query: "myotis yumanensis" ; Times: 2
+	Query: "genus:Aplodontia sex:male hasmass:1 haslength:1" ; Times: 1
+	Query: "Cryptotis parva" ; Times: 1
+	Query: "genus:Tamiasciurus specificepithet:hudsonicus*" ; Times: 1
+	Query: "vntype:specimen class:mammalia stateprovince:&#34;new mexico&#34;" ; Times: 1
+	Query: "Glaucomys volans" ; Times: 1
+	Query: "Aplodontia rufa vntype:specimen haslength:1" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes hasmass:1 haslength:1" ; Times: 1
+	Query: "Cricetomys gambianus" ; Times: 1
+	Query: "didelphis marsupialis" ; Times: 1
+	Query: "Erethizon dorsatum" ; Times: 1
+	Query: "family:emballonuridae" ; Times: 1
+
+
+End of report.
