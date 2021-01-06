@@ -1,0 +1,108 @@
+Report for Institution Code WNMU, Resource wnmu_mamm
+Usage stats for December 2020, generated on 2021/01/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 46
+Number of records retrieved in searches: 138
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 36
+	Country: United Kingdom ; Times: 6
+	Country: Spain ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-12-04 ; Times: 10
+	Date: 2020-12-20 ; Times: 2
+	Date: 2020-12-30 ; Times: 3
+	Date: 2020-12-22 ; Times: 1
+	Date: 2020-12-29 ; Times: 1
+	Date: 2020-12-09 ; Times: 8
+	Date: 2020-12-07 ; Times: 1
+	Date: 2020-12-06 ; Times: 2
+	Date: 2020-12-05 ; Times: 1
+	Date: 2020-12-13 ; Times: 1
+	Date: 2020-12-14 ; Times: 6
+	Date: 2020-12-02 ; Times: 8
+	Date: 2020-12-17 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:erminea genus:Mustela stateprovince:&#34;Indiana&#34;" ; Times: 1
+	Query: "scientificname:Parascalops breweri stateprovince:new york" ; Times: 2
+	Query: "scientificname:Tamias striatus stateprovince:new york" ; Times: 2
+	Query: "Neotoma cinerea" ; Times: 2
+	Query: "Nasua nasua in Arizona" ; Times: 1
+	Query: "genus:Geomys stateprovince:&#34;minnesota&#34;" ; Times: 2
+	Query: "scientificname:Peromyscus leucopus stateprovince:new york" ; Times: 2
+	Query: "scientificname:Microtus chrotorrhinus stateprovince:new york" ; Times: 3
+	Query: "scientificname:Procyon lotor" ; Times: 4
+	Query: "class:Mammalia county:&#34;Jefferson&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "genus:Jaculus hasmass:1" ; Times: 6
+	Query: "genus:sigmodon county:&#34;catron&#34; stateprovince:&#34;new mexico&#34;" ; Times: 1
+	Query: "Micromys minutus" ; Times: 1
+	Query: "scientificname:Napaeozapus insignis stateprovince:new york" ; Times: 4
+	Query: "Plecotus austriacus" ; Times: 1
+	Query: "specificepithet:astutus genus:bassariscus stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "specificepithet:minimus genus:tamias institutioncode:WNMU" ; Times: 1
+	Query: "Sciurus arizonensis" ; Times: 1
+	Query: "Saguinus midas" ; Times: 1
+	Query: "scientificname:Sorex fumeus stateprovince:new york" ; Times: 2
+	Query: "Suncus etruscus" ; Times: 1
+	Query: "specificepithet:bursarius genus:geomys stateprovince:&#34;new mexico&#34;" ; Times: 1
+	Query: "Leptonycteris sanborni" ; Times: 1
+	Query: "specificepithet:dorsalis genus:tamias institutioncode:WNMU" ; Times: 1
+	Query: "Pipistrellus nathusii" ; Times: 1
+	Query: "scientificname:Peromyscus maniculatus stateprovince:new york" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 20 (out of 705 download events in this period)
+Total number of records downloaded: 782
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 1
+	Country: Romania ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 1
+	Country: United States ; Times: 11
+	Country: Germany ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-12-25 ; Times: 1
+	Date: 2020-12-22 ; Times: 1
+	Date: 2020-12-29 ; Times: 3
+	Date: 2020-12-02 ; Times: 1
+	Date: 2020-12-09 ; Times: 2
+	Date: 2020-12-07 ; Times: 3
+	Date: 2020-12-11 ; Times: 1
+	Date: 2020-12-04 ; Times: 1
+	Date: 2020-12-03 ; Times: 4
+	Date: 2020-12-15 ; Times: 1
+	Date: 2020-12-17 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Myotis velifer" ; Times: 1
+	Query: "Glossophaga commissarisi" ; Times: 1
+	Query: "specificepithet:minimus genus:tamias institutioncode:WNMU" ; Times: 1
+	Query: "canis latrans" ; Times: 1
+	Query: "genus:Tamiasciurus specificepithet:hudsonicus*" ; Times: 1
+	Query: "family:sciuridae" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Sonora&#34; country:&#34;México&#34;" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "genus:Tamiasciurus specificepithet:.*" ; Times: 1
+	Query: "specificepithet:dorsalis genus:tamias institutioncode:WNMU" ; Times: 1
+	Query: "class:Mammalia country:Brazil" ; Times: 2
+	Query: "specificepithet:arenarius genus:geomys" ; Times: 2
+	Query: "didelphidae hasmass:1 haslength:1 -didelphis" ; Times: 1
+	Query: "specificepithet:bursarius genus:geomys stateprovince:&#34;new mexico&#34;" ; Times: 1
+	Query: "Tadarida brasiliensis" ; Times: 1
+	Query: "genus:Lepus" ; Times: 1
+	Query: "family:Felidae year &gt;= 2000 year &lt;= 2020" ; Times: 1
+	Query: "family:Muridae hassex:1 hasmass:1 haslength:1" ; Times: 1
+
+
+End of report.
